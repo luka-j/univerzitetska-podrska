@@ -1,0 +1,1520 @@
+1. Dejan Mijač, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+2. Mirjana Miočinović, redovna profesorka u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+3. Tijana Mandić, redovna profesorka u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+4. Nikola Jeftić, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+5. Srđan Karanović, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+6. Goran Marković, profesor emeritus, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+7. Egon Savin, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+8. Alisa Stojanović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+9. Nebojša Romčević, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+10. Janko Baljak, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+11. Milena Dragićević Šešić, redovna profesorka, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+12. Ivan Medenica, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+13. Miloš Pavlović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+14. Dušan Petrović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+15. Dragan Veselinović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+16. Predrag Velinović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+17. Dragana Čolić Biljanovski, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+18. Maja Volk, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+19. Divna Vuksanović, redovna profesorka, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+20. Irena Ristić, vanredna profesorka, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+21. Srdan Golubović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+22. Ana Martinoli, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+23. Ivan Šijak, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+24. Dobrivoje Milijanović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+25. Aleksandar Janković, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+26. Narcisa Darijević Marković, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+27. Ivan Stefanović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+28. Vlatko Ilić, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+29. Jelisaveta Tatić Čuturilo, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+30. Jelena Mitrović, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+31. Aleksandar Ilić, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+32. Ksenija Radulović, docentkinja, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+33. Snežana Trišić, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+34. Filip Grinvald, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+35. Vanja Šibalić, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+36. Nina MIhaljinac, docentkinja, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+37. Stefan Arsenijević, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+38. Andrijana Stojković, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+39. Nikola Ležaić, docent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+40. Ognjen Obradović, asistent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+41. Tara Manić, asistent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+42. Maja Miloš, asistent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+43. Stefan Ivančić, asistent, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+44. Martina Krivokapić, stručni saradnik, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+45. Romana Vujasinović, stručna saradnica, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+46. Ljubomir Madžar, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Beogradu
+47. Dubravka Pavličić, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Beogradu
+48. Milić Milovanović, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Beogradu
+49. Aleksandra Nojković, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+50. Branko Rakita, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+51. Danica Popović, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+52. Galjina Ognjanov, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+53. Marko Backović, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+54. Mihail Arandarenko, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+55. Milojko Arsić, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+56. Miroslav Todorović, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+57. Nadežda Silaški, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+58. Tatjana Đurović, redovni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+59. Goran Milićević, vanredni profesor u penziji, Ekonomski fakultet, Univerzitet u Beogradu
+60. Ivana Prica, vanredni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+61. Jelena Filipović, vanredni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+62. Sanja Mitić, vanredni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+63. Milutin Živanović, asistent, Ekonomski fakultet, Univerzitet u Beogradu
+64. Maja Ribić, saradnik u nastavi, Ekonomski fakultet, Univerzitet u Beogradu
+65. Filip Obradović, saradnik u nastavi, Ekonomski fakultet, Univerzitet u Beogradu
+66. Lazar Đurović, saradnik u nastavi, Ekonomski fakultet, Univerzitet u Beogradu
+67. Akademik Dušan Teodorović, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+68. Ranko Bugarski, redovni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+69. Vladeta Janković, redovni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+70. Iva Draškić Vićanović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+71. Adrijana Marčetić, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+72. Tanja Popović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+73. Aleksandra V. Jovanović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+74. Smilja Srdić, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+75. Katarina Rasulić, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+76. Ivana Trbojević Milošević, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+77. Jasmina Moskovljević Popović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+78. Snežana Kalinić, docent, Filološki fakultet, Univerzitet u Beogradu
+79. Nenad Tomović, docent, Filološki fakultet, Univerzitet u Beogradu
+80. Aleksandra Vukotić, docent, Filološki fakultet, Univerzitet u Beogradu
+81. Ana Đorđević, docent, Filološki fakultet, Univerzitet u Beogradu
+82. Nataša Šofranac, docent, Filološki fakultet, Univerzitet u Beogradu
+83. Andrej Bjelaković, asistent, Filološki fakultet, Univerzitet u Beogradu
+84. Mirna Stevanović, viši lektor, Filološki fakultet, Univerzitet u Beogradu
+85. Ružica Ivanović, viši lektor, Filološki fakultet, Univerzitet u Beogradu
+86. Nataša Ilić, lektor, Filološki fakultet, Univerzitet u Beogradu
+87. Andrijana Aničić, lektor, Filološki fakultet, Univerzitet u Beogradu
+88. Milica Vitaz, lektor, Filološki fakultet, Univerzitet u Beogradu
+89. Clare Zubac, lektor, Filološki fakultet, Univerzitet u Beogradu
+90. Tamara Aralica, lektor, Filološki fakultet, Univerzitet u Beogradu
+91. Ana Tomović, lektor, Filološki fakultet, Univerzitet u Beogradu
+92. Ksenija Bogetić, lektor, Filološki fakultet, Univerzitet u Beogradu
+93. Andrijana Broćić, lektor, Filološki fakultet, Univerzitet u Beogradu
+94. Nevena Hadži Jovančić, redovni profesor, Učiteljski fakultet, Univerzitet u Beogradu
+95. Maja Gruden-Pavlović, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+96. Geroslav Zarić, redovni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+97. Vesna Popović, vanredni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+98. Selena Vicković, docent, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+99. Ljiljana Petrović, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+100. Milivoj Miško Pavlović, docent, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+101. Darko Nedeljković, redovni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+102. Radoslav Milenković, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+103. Ivan Kljajić, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+104. Olivera Gračanin, redovna profesorka, Akademija umetnosti, Univerzitet u Novom Sadu
+105. Branislav Micić, nastavnik veština, Akademija umetnosti, Univerzitet u Novom Sadu
+106. Tatjana Paunović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+107. Danijela Gavrilović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+108. Dragana Zaharijevski, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+109. Zoran Jovanović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+110. Aleksandra Kostić, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+111. Natalija Jovanović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+112. Branislav Stevanović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+113. Zoran Dimić, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+114. Irena Ljubomirović, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+115. Nina Lazarević, docent, Filozofski fakultet, Univerzitet u Nišu
+116. Jasmina Šaranac, docent, Filozofski fakultet, Univerzitet u Nišu
+117. Maja Veljković, docent, Filozofski fakultet, Univerzitet u Nišu
+118. Marija Vujović, docent, Filozofski fakultet, Univerzitet u Nišu
+119. Miloš Jovanović, docent, Filozofski fakultet, Univerzitet u Nišu
+120. Bojan Blagojević, docent, Filozofski fakultet, Univerzitet u Nišu
+121. Nataša Simeunović Bajić, docent, Filozofski fakultet, Univerzitet u Nišu
+122. Nermin Vučelj, docent, Filozofski fakultet, Univerzitet u Nišu
+123. Ljiljana Marković, viši lektor, Filozofski fakultet, Univerzitet u Nišu
+124. Ivan Nikolić, asistent, Filozofski fakultet, Univerzitet u Nišu
+125. Milan Jovanović, asistent, Filozofski fakultet, Univerzitet u Nišu
+126. Anđelija Milić, asistent, Filozofski fakultet, Univerzitet u Nišu
+127. Neven Obradović, asistent, Filozofski fakultet, Univerzitet u Nišu
+128. Dušan Aleksić, asistent, Filozofski fakultet, Univerzitet u Nišu
+129. Marta Mitrović, asistent, Filozofski fakultet, Univerzitet u Nišu
+130. Dušan Milenković, asistent, Filozofski fakultet, Univerzitet u Nišu
+131. Ljiljana Skrobić, asistent, Filozofski fakultet, Univerzitet u Nišu
+132. Bojana Pucarević, asistent, Filozofski fakultet, Univerzitet u Nišu
+133. Nemanja Krstić, demonstrator, Filozofski fakultet, Univerzitet u Nišu
+134. Jadranka Mišić Pejović, redovni profesor, Fakultet umetnosti, Univerzitet u Nišu
+135. Bratislav Bašić, vanredni profesor, Fakultet umetnosti, Univerzitet u Nišu
+136. Vesna Rilak Stanimirović, vanredni profesor, Fakultet umetnosti, Univerzitet u Nišu
+137. Predrag Cvetičanin, docent, Fakultet umetnosti, Univerzitet u Nišu
+138. Marija Dinov Vasić, asistent, Fakultet umetnosti, Univerzitet u Nišu
+139. Tamara Milenković-Kerković, redovni profesor, Ekonomski fakultet, Univerzitet u Nišu
+140. Nebojša Stojković, redovni profesor, Ekonomski fakultet, Univerzitet u Nišu
+141. Ljubica Nikolić, redovni profesor, Pravni fakultet, Univerzitet u Nišu
+142. Ljiljana Mijatović Teodorović, redovni profesor, Fakultet medicinskih nauka, Univerzitet u Kragujevcu
+143. Branislav Simonović, redovni profesor, Pravni fakultet, Univerzitet u Kragujevcu
+144. Mirjana Mišković-Luković, redovni profesor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+145. Zoran Paunović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+146. Ana Altaras-Dimitrijević, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+147. Tatjana Stefanović Stanojević, redovni profesor, Filozofski fakultet, Univerziteta u Nišu
+148. Milan Okanović, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+149. Tatjana Rosić Ilić, redovna profesorka, Fakultet za medije i komunikacije, Univerzitet Singidunum
+150. Zoran Radovanovic, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+151. Vladimir Nikolić, docent, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+152. Mejsun Garajbe Simonović, docentkinja, Filološki fakultet, Univerzitet u Beogradu
+153. Svetozar Saša Kovačević, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+154. Milan Stojković, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+155. Milica Gligorović, redovni profesor, Fakulteta za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+156. Luka Mijatović, docent, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+157. Sanja Šovran, docent, Biološki fakultet, Univerzitet u Beogradu
+158. Đorđe Krivokapić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+159. Mina Cvetinović Pavkov, docent, Akademija umetnosti, Univerzitet u Novom Sadu
+160. Tanja Rakić, docent, Filološki fakultet, Univerzitet u Beogradu
+161. Branka Novčić Korać, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+162. Aleksandar Novaković, docent, Nova akademija umetnosti
+163. Jelena Stanković, vanredni profesor, Ekonomski fakultet, Univerzitet u Nišu
+164. Aleksandar S. Petrović, docent, Geografski fakultet, Univerzitet u Beogradu
+165. Nikola Bjelić, docent, Filozofski fakultet, Univerzitet u Nišu
+166. Miloš Jevtić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+167. Strahinja Simonović, asistent, , Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+168. Tijana Mirović, vanredna profesorka, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+169. Jelena Kusovac, docent, Filološki fakultet, Univerzitet u Beogradu
+170. Fuada Stankovic, redovni profesor u penziji, Pravni fakultet, Univerzitet u Novom Sadu
+171. Ljubiša Dokić, vanredni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+172. Miloš Đajić, samostalni stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+173. Petar Popović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+174. Dušan Petričić, vanredni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+175. Dejan Dimitrijević, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+176. Milan V. Puzić, vanredni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+177. Živan Živković, redovni profesor u penziji, Tehnički fakultet u Boru, Univerzitet u Beogradu
+178. Slobodan Stević, vanredni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+179. Milan Lukić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+180. Aleksandra Tomić, asistent, Medicinski fakultet, Univerzitet u Beogradu
+181. Ada Šoštarić, docent, Filološki fakultet, Univerzitet u Beogradu
+182. Biljana Stojković, redovna profesorka, Biološki fakultet, Univerzitet u Beogradu
+183. Milovan Šuvakov, viši naučni saradnik, Institut za fiziku u Beogradu, Univerzitet u Beogradu
+184. Uroš Zdravković, docent, Pravni fakultet, Univerzitet u Nišu
+185. Željko Marković, vanredni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+186. Zoran Trifković, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+187. Ana Kolarić, docent, Filološki fakultet, Univerzitet u Beogradu
+188. Duško Radosavljević, redovni profesor, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+189. Milica Ječmenica Lukić, asistent, Medicinski fakultet, Univerzitet u Beogradu
+190. Maja Miličević Petrović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+191. Aleksandra Joksimović, redovni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+192. Predrag Perišić, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+193. Nataša Tučev, docent, Filozofski fakultet, Univerzitet u Nišu
+194. Ljiljana Petković, redovni profesor, Mašinski fakultet, Univerzitet u Nišu
+195. Zoran Mijatovic, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+196. Nataša Crnjanski, docent, Akademija umetnosti, Univerzitet u Novom Sadu
+197. Milan Spasojevic, redovni profesor, Ekonomski fakultet, Univerzitet u Nišu
+198. Vesna Pilipović, redovni profesor,  Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+199. Nina Turajlić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+200. Vladica Cvetković, redovni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+0.   Vladica Cvetković, dopisni član SANU
+201. Mihailo Nikolić, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+202. Vojislav Sekerez, vanredni profesor, Ekonomski fakultet, Univerzitet u Beogradu
+203. Dušan Dobromirov, vanredni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+204. Veselinović Janko, redovni profesor, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+205. Jasmina Jovanović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+206. Marko Petković, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+207. Nataša Milivojević, vanredni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+208. Snežana Vučković, docent, Filološki fakultet, Univerzitet u Beogradu
+209. Jelena Đorđević, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+210. Aleksandra Anđelković, vanredni profesor, Pedagoški fakultet u Vranju, Univerzitet u Nišu
+211. Slobodan Prvanović, naučni savetnik, Institut za fiziku, Univerzitet u Beogradu
+212. Aleksandar S. Mojašević, redovni profesor, Pravni fakultet, Univerzitet u Nišu
+213. Ivana Lukić, naučni saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+214. Vera Večanski, docent, Učiteljski fakultet, Univerzitet u Beogradu
+215. Slobodan Krčevinac, redovni profesor u penziji, Fakultet organizacionih nauka, Univerzitet u Beogradu
+216. Vesna Miletić, vanredni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+217. Ivan Obradović, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+218. Nebojša Maksimović, docent, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+219. Irena Pejić, redovni profesor, Pravni fakultet, Univerzitet u Nišu
+220. Dejan Cicmilović, vanredni profesor, Fakultet umetnosti, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+221. Nevena Mitranić, asistent, Filozofski fakultet, Univerzitet u Beogradu
+222. Ana Sentov, docent,  Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+223. Zorana Popović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+224. Jovan Čudomirović, docent, Filološki fakultet, Univerzitet u Beogradu
+225. Maja Šumar Ristović, docent, Hemijski fakultet, Univerzitet u Beogradu
+226. Predrag Dilparić, docent, Filološki fakultet, Univerziteta u Beogradu
+227. Dejan Joković, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+228. Jovan Krivokapić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+229. Marko Đorđević, vanredni profesor, Fakultet pedagoških nauka, Univerzitet u Kragujevcu
+230. Dragan Manojlović, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+231. Tijana Prodanović, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+232. Danilo Stojanović, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+233. Goran Brajušković, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+234. Stepan Stepanović, istraživač saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerziteta u Beogradu
+235. Dragoljub B. Đorđević, redovni profesor, Mašinski fakultet, Univerzitet u Nišu
+236. Bogdan Đurović, asistent u penziji, Mašinski fakultet, Univerzitet u Nišu
+237. Vladan Petrović, nastavnik veština, Mašinski fakultet, Univerzitet u Nišu
+238. Miloš Tasić, docent, Mašinski fakultet, Univerzitet u Nišu
+239. Željko Donić, asistent, Filološki fakultet, Univerzitet u Beogradu
+240. Nenad Stevanović, docent, Fakultet pedagoških nauka, Univerzitet u Kragujevcu
+241. Biljana Mišić Ilić, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+242. Tanja Manojlović, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+243. Goran Obradović, redovni profesor, Pravni fakultet, Univerzitet u Nišu
+244. Dušan Stamenković, docent, Filozofski fakultet, Univerzitet u Nišu
+245. Srbijanka Turajlić, vanredni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+246. Suzana Marković Krstić, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+247. Branislava Stojanović, viši lektor, Filološki fakultet, Univerzitet u Beogradu
+248. Miloš Zatkalik, redovni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+249. Draško Bjelica, vanredni profesor u penziji, Filozofski fakultet, Univerzitet u Nišu
+250. Lela Milošević Radulović, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+251. Milorad Vidović, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+252. Miodrag Gmitrović, redovni profesor u penziji, Elektronski fakultet, Univerzitet u Nišu
+253. Milan Petković, asistent, Medicinski fakultet, Univerzitet u Nišu
+254. Violeta Dopsaj, redovna profesorka, Farmaceutski fakultet, Univerzitet u Beogradu
+255. Marija Pejičić, asistent, Filozofski fakultet, Univerzitet u Nišu
+256. Gordana Kaljalović, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+257. Ljubica Oparnica, vanredni profesor, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+258. Biljana Branković, docent, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+259. Aleksandra Nikolajević, asistent, Filozofski fakultet, Univerzitet u Nišu
+260. Milan Damnjanović, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+261. Zvonko Rakarić, vanredni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+262. Vladimir Kekić, redovni profesor u penziji, Biološki fakultet, Univerzitet u Beogradu
+263. Duško Latas, docent, Fizički fakultet, Univerzitet u Beogradu
+264. Violeta Beširević, redovna profesorka, Pravni fakultet, Univerzitet Union
+265. Dubravka Đurić, redovna profesorka, Fakultet za medije i komunikacije, Univerzitet Singidunum
+266. Slađana Đurić, redovni profesor, Fakultet bezbednosti, Univerzitet u Beogradu
+267. Drago Đurić, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu
+268. Oliver Tošković, docent, Filozofski fakultet, Univerzitet u Beogradu
+269. Danka Purić, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+270. Ksenija Krstić, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+271. Jelena Teodorović, vanredni profesor, Fakultet pedagoških nauka Univerziteta u Kragujevcu, Jagodina
+272. Sreten Petrović, redovni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+273. Marjan Ivković, naučni saradnik, Institut za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+274. Miško Šuvaković, redovni profesor, Fakultet za medije i komunikaciju, Univerzitet Singidunum
+275. Smiljka Tomanović, redovna profesorka, Filozofski fakultet, Univerzitet u Beogradu
+276. Branka Dražić, docent, Farmaceutski fakultet, Univerzitet u Beogradu
+277. Marina Videnović, naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+278. Zoran Milutinović, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+279. Jasna Stojanović, redovna profesorka, Filološki fakultet, Univerzitet u Beogradu
+280. Natalija Žunić, docentkinja, Pravni fakultet, Univerzitet u Nišu
+281. Mirjana Đurđević, profesorka, Visoka građevinsko-tehnička škola, Beograd
+282. Jugoslav Karamarković, redovni profesor, Građevinsko-arhitektonski fakultet, Univerzitet u Nišu
+283. Ivana Simonović, docentkinja, Pravni fakultet, Univerzitet u Nišu
+284. Andreja Tepavčević, redovna profesorka, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+285. Maja Savić, docent, Filološki fakultet, Univerzitet u Beogradu
+286. Radomir Todorović, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+287. Zoran Pavlović, docent, Filozofski fakultet, Univerzitet u Beogradu
+288. Branimir Šešelja, redovni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+289. Snežana Božić, docent, Filozofski fakultet, Univerzitet u Nišu
+290. Branimir Karanović, profesor emeritus, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beograd
+291. Selma Đulizarević Karanović, vanredni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+292. Jelena Vidić, saradnica u nastavi, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+293. Sonja Cvetković, vanredni profesor, Fakultet umetnosti, Univerzitet u Nišu
+294. Dragan Žunić, redovni profesor u penziji, Fakultet umetnosti, Univerzitet u Nišu
+295. Milena Petković, vanredni profesor, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+296. Dragana Pavlović, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+297. Ranko Bocina, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+298. Miodrag Sibinović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+299. Nenad Stanojević, istraživač-pripravnik, Filozofski fakultet, Univerzitet u Nišu
+300. Dima Trajkovic, redovni profesor u penziji, Građevinsko-arhitektonski fakultet, Univerzitet u Nišu
+301. Borut Vild, redovni profesor, Fakultet za medije i komunikacije, Univerzitet Singidunum
+302. Mirjana Ruml, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+303. Miloš Nenadović, docent, Arhitektonski fakultet, Univerzitet u Beogradu
+304. Nikola Božilović, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Nišu
+305. Branka Popović, vanredni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+306. Marija Marković, docent, Filozofski fakultet, Univerzitet u Nišu
+307. Dragan Janković, docent, Filozofski fakultet, Univerzitet u Beogradu
+308. Marina Matejević, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+309. Milentije Đorđević, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Nišu
+310. Jelisaveta Todorović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+311. Anka Mihajlov, docent, Filozofski fakultet, Univerzitet u Nišu
+312. Jovanka Matic, naučni saradnik, Institut društvenih nauka, Beograd
+313. Ljiljana B. Lazarević, viši naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+314. Pero Šipka, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Novom Sadu
+315. Sanja Grgurić-Šipka, redovni profesor, Hemijski fakultet, Univerzitet u Beogradu
+316. Slavko Simić, naučni savetnik u penziji, Matematički institut SANU
+317. Jovan Slavnić, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Novom Sadu
+318. Lidija Marinkov Pavlović, vanredna profesorka, Akademija umetnosti, Univerzitet u Novom Sadu
+319. Slađana Ristić Gorgiev, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+320. Polina Blagojević, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+321. Slobodan Ilić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Nišu
+322. Bosiljka Zirojević Lečić, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+323. Marko Dimitrijević, docent, Elektronski fakultet, Univerzitet u Nišu
+324. Goran Lj. Đorđević, redovni profesor, Elektronski fakultet, Univerzitet u Nišu
+325. Ivan Novaković, vanredni profesor, Fakultet umetnosti, Univerzitet u Nišu
+326. Nemanja Radulović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+327. Milutin Petrović, redovni profesor, Fakultet FEFA, Univerzitet Metropolitan
+328. Bojana Maljević, docent, Fakultet FEFA, Univerzitet Metropolitan
+329. Maša Nešković, asistentkinja, Fakultet FEFA, Univerzitet Metropolitan
+330. Petar Jovanović, docent, Fakultet FEFA, Univerzitet Metropolitan
+331. Dragan Matić, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+332. Vladimir Miljković, docent, Fizički fakultet, Univerzitet u Beogradu
+333. Žarko Trebješanin, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+334. Aleksandra Jovićević, gost profesor, , Univerzitet umetnosti u Beogradu
+335. Tatjana Srdić-Rajić, naučni savetnik, Institut za onkologiju i radiologiju Srbije
+336. Duška Franeta, vanredna profesorka, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+337. Milan Višnjić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Nišu
+338. Dejan Ilić, docent, Saobraćajni fakultet, Univerzitet u Beogradu
+339. Igor Aleksić, vanredni profesor, Fakultet umetnosti, Univerzitet u Nišu
+340. Jovana Đurić, docent, fakultet FEFA, Univerzitet Metropolitan
+341. Nevena Buđevac, docent, Učiteljski fakultet, Univerzitet u Beogradu
+342. Marko Lađušić, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+343. Iva Milinkovic, asistent, Stomatološki fakultet, Univerzitet u Beogradu
+344. Tomislav Gajić, docent, Fakultet zdravstvenih, pravnih i poslovnih studija, Univerzitet Singidunum
+345. Biljana Božić Nedeljković, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+346. Irena Fiket, naučna saradnica, Institut za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+347. Andrej Josifovski, asistent, Arhitektonski fakultet, Univerzitet u Beogradu
+348. Kaja Damnjanović, naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+349. Jelena Petković, docent, Filozofski fakultet, Univerzitet u Nišu
+350. Boris Pendelj, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+351. Gordana Matić, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+352. Srđan Prodanović, naučni saradnik, Institut za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+353. Ljubiša Jovanović, redovni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+354. Snežana Ivanović, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+355. Srđan Pejanovic, vanredni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+356. Milijana Grkajac, nastavnik jezika, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+357. Miodrag Bata Knežević, redovni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+358. Vesna Poleksić, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+359. Dragana Berić, redovni profesor, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Nišu
+360. Višnja Petrović, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+361. Predrag Simonović, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+0.   Predrag Simonović, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+362. Šćepan Miljanić, redovni profesor u penziji, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+363. Mirko Filipović, vanredni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+364. Branislav Žegarac, redovni profesor, Arhitektonski fakultet, Univerzitet u Beogradu
+365. Bojana Drljan, asistent, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+366. Slobodan Marković, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu
+367. Milan Milošević, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+368. Nataša Joković, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+369. Mirjana Tasić, naučni savetnik u penziji, Institut za fiziku, Univerzitet u Beogradu
+370. Zenica Raspor, viši lektor u penziji, Filološki fakultet, Univerzitet u Beogradu
+371. Katarina Vukadinović, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+372. Vlastimir Đokić, redovni profesor u penziji, Mašinski fakultet, Univerzitet u Nišu
+373. Petar Bunjak, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+374. Nenad Šekularac, vanredni profesor, Arhitektonski fakultet, Univerzitet u Beogradu
+375. Danijela Popović, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+376. Željko Mandić, docent, Akademija umetnosti, Univerzitet u Novom Sadu
+377. Vladimir Perišić, docent, Fakultet za medije i komunikacije, Univerzitet Singidunum
+378. Lidija Srebotnjak Prišić, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+379. Aleksandra Lozanović, asistent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+380. Jovana Nikolić, asistent, Fakultet umetnosti, Univerzitet u Nišu
+381. Ferid Karajica, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+382. Gazela Pudar Draško, naučna saradnica, Institut za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+383. Boban Petrović, naučni saradnik, Institut za kriminološka i sociološka istraživanja, Beograd
+384. Aleksandar N. Nešković, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+385. Jelena Radić-Perić, redovni profesor u penziji, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+386. Marijan Jelić, docent, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+387. Darko Ivanović, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+388. Zorana Jelić-Ivanović, profesor emeritus, Farmaceutski fakultet, Univerzitet u Beogradu
+389. Miodrag Stojković, redovni profesor, Fakultet medicinskih nauka, Univerzitet u Kragujevcu
+390. Mirjana Medenica, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+391. Tanja Dinić, nastavnica jezika, Saobraćajni fakultet, Univerzitet u Beogradu
+392. Stojan Bogdanović, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Nišu
+393. Mrđan Bajić, redovni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+394. Bojana Bodroža, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+395. Marko Stamenić, viši naučni saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+396. Neda Mimica-Dukić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+397. Vladimir Karanović, docent, Filološki fakultet, Univerzitet u Beogradu
+398. Tatjana Verbić, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+399. Boško Jovanović, redovni profesor u penziji, Matematički fakultet, Univerzitet u Beogradu
+400. Đorđe Vidanović, redovni profesor u penziji, Centar za kognitivne nauke, Univerzitet u Nišu
+401. Snežana Vidanović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+402. Nebojša Grujić, asistent, Visoka tehnološka škola strukovnih studija u Aranđelovcu
+403. Alisa Gruden-Movsesijan, naučni savetnik, Institut za primenu nuklearne energije, Univerzitet u Beogradu
+404. Slavko Mentus, redovni profesor, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+0.   Slavko Mentus, redovni član SANU
+405. Dragana Vukov, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+406. Tamara Džamonja Ignjatović, redovna profesorka, Filozofski fakultet, Univerzitet u Beogradu
+0.   Tamara Džamonja Ignjatović, redovna profesorka, Fakultet političkih nauka, Univerzitet u Beogradu
+407. Rastko Vasilić, vanredni profesor, Fizički fakultet, Univerzitet u Beogradu
+408. Ivan Šuletić, docent, Arhitektonski fakultet, Univerzitet u Beogradu
+409. Ljiljana Damjanović-Vasilić, redovni profesor, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+410. Dragana Marić, naučni savetnik, Institut za fiziku u Beogradu, Univerzitet u Beogradu
+411. Vera Backović, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+412. Dejan Urošević, redovni profesor, Matematički fakultet, Univerzitet u Beogradu
+413. Velimir R. Radmilović, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+0.   Velimir R. Radmilović, dopisni član SANU
+414. Tijana Cvetić Antić, vanredna profesorka, Biološki fakultet, Univerzitet u Beogradu
+415. Jelena Ivanović-Šekularac, redovni profesor, Arhitektonski fakultet, Univerzitet u Beogradu
+416. Milan Gavrilović, istraživač saradnik, Biološki fakultet, Univerzitet u Beogradu
+417. Jelena Kotur-Stevuljević, redovni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+418. Goran Despotovski, vanredni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+419. Svetozar Vukadinović, redovni profesor u penziji, Saobraćajni fakultet, Univerzitet u Beogradu
+420. Nadežda Nedeljković, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+421. Milan Knežević, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+422. Zoran Graovac, redovni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+423. Desanka Radunović, vanredni profesor u penziji, Matematički fakultet, Univerzitet u Beogradu
+424. Tasko Grozdanov, naučni savetnik u penziji, Institut za fiziku, Univerzitet u Beogradu
+425. Natalija Bogdanov, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+426. Dušanka Lazarević, redovni profesor u penziji, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+427. Svetlana Čizmić, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+428. Irena Špadijer, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+429. Vera Raičević, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+430. Sonja Petrović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+431. Jelena Jovičić-Petrović, docent, Poljoprivredni fakultet, Univerzitet u Beogradu
+432. Jelica Petrović-Vujačić, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+433. Mirjana Beara, docentkinja, Departman za filozofske nauke, Državni univerzitet u Novom Pazaru
+434. Svetlana Volic, docent, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+435. Tijana Vesić Pavlović, docent, Mašinski fakultet, Univerzitet u Beogradu
+436. Rozalia Madarasz, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+437. Marijana Petrović, vanredni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+438. Dubravka Savić, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+439. Saša Jovanović, docent, Fakultet inženjerskih nauka, Univerzitet u Kragujevcu
+440. Kostić Senka, asistent, Filozofski fakultet, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+441. Marina Stamenković-Radak, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+442. Snežana Komatina, redovni profesor, Tehnički fakultet Mihajlo Pupin, Univerzitet u Novom Sadu
+443. Jasmina Šinžar Sekulić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+444. Zlatan Šoškić, redovni profesor, Fakultet za mašinstvo i građevinarstvo, Univerzitet u Kragujevcu
+445. Ljiljana Kostić Kravljanac, naučni saradnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+446. Maja Mihajlović, asistent, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+447. Mario Zlatović, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+448. Zdravko Joksimović, redovni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+449. Miodrag Tabački, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+450. Nevena Grdović, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+451. Snežana Popić, asistent, Filozofski fakultet, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+452. Marina Milivojević Mađarev, docentkinja, Akademija umetnosti, Univerzitet u Novom Sadu
+453. Vojislava Nešković, docent, Medicinski fakultet Vojnomedicinske akademije, Univerzitet odbrane Beograd
+454. Zagorka Tamaš, redovni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+455. Sofija Pavković-Lučić, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+456. Tijana Štajner, naučni saradnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+457. Dragan Nikšić, naučni saradnik, Institut za stočarstvo
+458. Milena Petrović, redovni profesor, Pravni fakultet, Univerzitet u Kragujevcu
+459. Vesna Radoman, redovni profesor u penziji, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+460. Zorica Stanisavljević Petrović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+461. Ana Đorđević, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+462. Vladimir Figar, asistent, Filozofski fakultet, Univerzitet u Nišu
+463. Milica Šelmić, vanredni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+464. Bojana Zeković, asistent, Arhitektonski fakultet, Univerzitet u Beogradu
+465. Gabriel Glid, vanredni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+466. Uroš Nedeljković, vanredni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+467. Marija Đorđić Crnogorac, naučni saradnik, Institut za onkologiju i radiologiju Srbije
+468. Olivera Batajić Sretenović, docent, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+469. Miloš Erić, docent, fakultet FEFA, Univerzitet Metropolitan
+470. Mihajlo Babin, vanredni profesor, Fakultet FEFA, Univerzitet Metropolitan
+471. Sonja Lončar, vanredni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+472. Andrija Pavlović, docent, Nova akademija umetnosti
+0.   Andrija Pavlović, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+473. Ljubinko Lević, redovni profesor u penziji, , Univerzitet u Novom Sadu
+474. Goran Radosavljević, vanredni profesor, Fakultet FEFA, Univerzitet Metropolitan
+475. Ivana Najdanović, predavač, Visoka tekstilna strukovna škola za dizajn, tehnologiju i menadžment
+476. Miloš Nikolić, docent, Saobraćajni fakultet, Univerzitet u Beogradu
+477. Katarina Stanić, docent, Fakultet FEFA, Univerzitet Metropolitan
+478. Milan Nedeljković, vanredni profesor, Fakultet FEFA, Univerzitet Metropolitan
+479. Đorđe Terzin, asistent, Fakultet za medije i komunikacije, Univerzitet Singidunum
+480. Anđela Šoškić, asistent, Učiteljski fakultet, Univerzitet u Beogradu
+481. Rade Bojanović, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+482. Biljana Dojčinović, redovna profesorka, Filološki fakultet, Univerzitet u Beogradu
+483. Ana Popović, docent, Ekonomski fakultet, Univerzitet u Nišu
+484. Dragan Gajić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+485. Dragiša Savić, redovni profesor, Tehnološki fakultet, Univerzitet u Nišu
+486. Sonja Krstić, vanredni profesor, Fakultet savremenih umetnosti, Univerzitet Privredna akademija Novi Sad
+487. Miroslav Živić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+488. Vida Jojić, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+489. Nataša Tasić, profesor strukovnih studija, Visoka škola strukovnih studija za vaspitače
+490. Igor Jemcov, vanredni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+491. Radomir Ljupković, naučni saradnik, Prirodno-matematički fakultet, Univerzitet u Nišu
+492. Miodrag Milutinov, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+493. Dragana Ilić, vanredna profesorka, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+494. Vladan Perišić, redovni profesor, Pravoslavni bogoslovski fakultet, Univerzitet u Beogradu
+495. Radivoje Jovović, docent, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+496. Dušica Janošević, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+497. Sanja J. Ignjatović, asistent, Filozofski fakultet, Univerzitet u Nišu
+498. Ivan Stijepović, naučni saradnik, Tehnološki fakultet, Univerzitet u Novom Sadu
+499. Goran Poznanović, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+500. Vesna Vučinić, vanredni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+501. Ljiljana Todorović, docent, Nova akademija umetnosti
+502. Vesna Cvejić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+503. Radomir M. Radovanovic, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+504. Slavica Radosavljević, predavač, Visoka škola strukovnih studija za informacione i komunikacione tehnologije, Beograd
+505. Bojana Kovačević Petrović, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+506. Dijana Krstić Milošević, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+507. Nikola Tošić, docent, Građevinski fakultet, Univerzitet u Beogradu
+508. Daliborka Purić, vanredni profesor, Pedagoški fakultet, Univerzitet u Kragujevcu
+509. Tatjana Karavelić, saradnik u nastavi, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+510. Milica Tošić Radev, docent, Filozofski fakultet, Univerzitet u Nišu
+511. Vesna Besarović, redovni profesor u penziji, Pravni fakultet, Univerzitet u Beogradu
+512. Ana Krivokuća, naučni saradnik, Institut za onkologiju i radiologiju Beograd
+513. Nevena Debljović Ristić, naučni saradnik, Republički zavod za zaštitu spomenika kulture Beograd
+514. Dejana Kravarušić Bajić, viši umetnički saradnik, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+515. Aleksandar Ćoćić, vanredni profesor, Mašinski fakultet, Univerzitet u Beogradu
+516. Goran Radojev, docent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+517. Duško Prelević, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+518. Katarina Hadži-Antić Tatić, viši umetnički saradnik, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+519. Dragutin J. Savić, redovni profesor u penziji, Biološki fakultet, Univerzitet u Beogradu
+520. Srđan Verbić, docent, Fakultet FEFA, Univerzitet Metropolitan, Beograd
+521. Ivana Manić, viša predavačica, Visoka škola strukovnih studija za obrazovanje vaspitača, Kruševac
+522. Dragan Todorović, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+523. Oskar Riter, samostalni stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+524. Tatjana Lazović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+525. Natalija Panić Cerovski, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+526. Slavica Dragosavac, vanredni profesor, Fakultet umetnosti u Nišu, Univerzitet u Nišu
+527. Vladimir Tošić, redovni profesor u penziji, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+528. Branimir Radosavljević, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+529. Svetlana Ignjatović, redovni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+530. Ivica Bošnjak, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+531. Jasmina Đorđević, docent, Filozofski fakultet, Univerzitet u Nišu
+532. Gradimir Vasić, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+533. Ivanka Milošević, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+534. Milica Micić, umetnički saradnik, Fakultet umetnosti, Univerzitet u Nišu
+535. Radomir Ranković, docent, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+536. Zorana Kozomarić, nastavnik stranog jezika, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+537. Vladeta Milin, docent, Filozofski fakultet, Univerzitet u Beogradu
+538. Snežana Konjkušić, vanredna profesorka, Fakultet FEFA, Univerzitet Metropolitan
+539. Tamara Jemcov, asistent, Medicinski fakultet, Univerzitet u Beogradu
+540. Radovan Zobenica, vanredni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+541. Ivana Dragićević, vanredna profesorka, Biološki fakultet, Univerzitet u Beogradu
+542. Leposava Kron, naučni savetnik, Institut za kriminološka i sociološka istraživanja, Beograd
+543. Eva Vaništa Lazarević, redovna profesorka, Arhitektonski fakultet, Univerzitet u Beogradu
+544. Sofija Pekic Quarrie, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+545. Luka Lučić, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+546. Milka Ćulić, naučni savetnik u penziji, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+547. Aleksandra Korda-Petrović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+548. Trajko Petrović, redovni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+549. Slobodan Miladinović, redovni profesor, Fakultet organizacionih nauka, Univerzitet u Beogradu
+550. Marija Mostarica-Stojković, profesorka emerita, Medicinski fakultet, Univerzitet u Beogradu
+551. Oliver Stojković, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+552. Bojan Ristić, docent, Ekonomski fakultet, Univerzitet u Beogradu
+553. Predrag Brebanović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+554. Ilija Batas Bjelić, naučni saradnik, Institut tehničkih nauka, SANU
+555. Jelena Vasiljević, naučna saradnica, Institut za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+556. Melita Vidaković, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+557. Miloš Milčić, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+558. Milena Stojanović Stošić, docent, Pedagoški fakultet u Vranju, Univerzitet u Nišu
+559. Ana Todorovski, stručna saradnica, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+560. Marko Vilotić, docent, Pravoslavni bogoslovski fakultet, Univerzitet u Beogradu
+561. Andreja Rajković, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+562. Vladimir Jović, vanredni profesor, , Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+563. Dubravka Jovičić, redovni profesor, Fakultet muzičke umetnosti Univerziteta umetnosti u Beogradu
+564. Mirko Rosić, redovni profesor, Fakultet medicinskih nauka, Univerzitet u Kragujevcu
+565. Jelena Nedeljković Trailović, redovni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+566. Tamara Klikovac, docent, Filozofski fakultet, Univerzitet u Beogradu
+567. Miroslav Marković, profesor strukovnih studija, Visoka tehnološka škola strukovnih studija u Aranđelovcu
+568. Marijana Vučinić, redovni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+569. Dušan Radisavljević, asistent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+570. Zora Dajić Stevanović, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+571. Aleksandar Dragić, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+572. Jasmina Petrović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+573. Maja Burić, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+574. Ivana Tomanović, vanredni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+575. Slađana Tanasković, vanredni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+576. Živko Surčulija, redovni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+577. Dušanka Đurđev, redovni profesor u penziji, Pravni fakultet, Univerzitet u Novom Sadu
+578. Jelena Starčević, docent, Fakultet pedagoških nauka, Univerzitet u Kragujevcu
+580. Dragan Pavlović, vanredni profesor, Fakultet za medije i komunikacije, Univerzitet Singidunum
+581. Dragana Stevanović, docent, Akademija umetnosti, Univerzitet u Novom Sadu
+581. Radivoj Protić, stručni saradnik, Matematički fakultet, Univerzitet u Beogradu
+582. Milica Milutinović, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+583. Suzana Pavlović, profesor, Visoka zdravstveno-sanitarna škola strukovnih studija
+584. Isidora Žebeljan, redovni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+0.   Isidora Žebeljan, redovni član SANU
+585. Borislav Čičovački, redovni profesor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+586. Jelena Trpković, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+587. Dragan Pantić, redovni profesor, Elektronski fakultet, Univerzitet u Nišu
+588. Gordana Matković, redovni profesor, Fakultet FEFA, Univerzitet Metropolitan
+589. Zoran Todović, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+590. Olivera Klisurić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+591. Željko Škrbić, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+592. Boris Stojić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+593. Nikola Škoro, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+594. Dragoslav Todorović, honorarni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+595. Miodrag Đorđević, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+596. Milivoj Dopsaj, redovni profesor, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+597. Jovan Lole Vasiljević, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+598. Sanja Filipović, vanredni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+599. Olja Jovanović Milanović, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+600. Tatjana Starodubcev, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+601. Milan Đorđević, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+602. Jovan Popović, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+603. Savo Manojlović, istraživač saradnik, Institut za uporedno pravo
+604. Marija Maruna, vanredni profesor, Arhitektonski fakultet, Univerzitet u Beogradu
+605. Zvonko Pavličić, redovni profesor Fakulteta tehničkih nauka, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+606. Jelena Rebić, saradnik u nastavi, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+607. Đorđe Odanović, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+608. Jelena Aleksić, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+609. Tamara Đorđević, asistent, Visoka škola strukovnih studija za obrazovanje vaspitača, Kruševac
+610. Radmilo Pešić, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+611. Marija Savić Veselinović, docent, Biološki fakultet, Univerzitet u Beogradu
+612. Filip Kuranji, viši stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+613. Milica Milutinović, saradnik u nastavi, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+614. Aleksandar Ramadanović, viši stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+615. Iva Branković,asistent, Fakultet za medije i komunikacije, Univerzitet Singidunum
+616. Nikica Strižak, lektor, Filološki fakultet, Univerzitet u Beogradu
+617. Iva Lakic, docent, Biološki fakultet, Univerzitet u Beogradu
+618. Zoran Janković, asistent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+619. Branislav Milovanović, asistent, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+620. Milan Banjac, docent, Mašinski fakultet, Univerzitet u Beogradu
+621. Zoran Skrobanović, vanredni profesor, Filološki fakultet Univerziteta u Beogradu
+622. Aleksandra Bogdanović, asistent, Filozofski fakultet, Univerzitet u Nišu
+623. Olga Tomić, redovna profesorka u penziji, Filozofski fakultet, Univerzitet u Novom Sadu
+624. Sanja Fric, docent, Građevinski fakultet, Univerzitet u Beogradu
+625. Aleksandar Ignjatović, vanredni profesor, Fakultet pedagoških nauka Univerziteta u Kragujevcu
+626. Branislav Šiler, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+627. Ljubiša Mitrović, profesor emeritus, Filozofski fakultet Univerziteta u Nišu
+628. Anja Mitić, docent, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+629. Branislav Ćorić, redovni profesor u penziji, Gradjevinski fakultet, Univerzitet u Beogradu
+630. Branimir Jovančićević, redovni profesor, Hemijski fakultet, Univerzitet u Beogradu
+631. Radomir Banjanac, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+632. Dejan Suzović, vanredni profesor, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+633. Emilija Krajnović- Jakšić, redovna profesorka u penziji, Medicinski fakultet, Univerzitet u Beogradu
+634. Ana Knežević Bojović, naučni saradnik, Institut za uporedno pravo, Beograd
+635. Zorka Dulić, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+636. Jelena Dimitrijević, naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+637. Vesna Ćorić, naučni saradnik, Institut za uporedno pravo, Beograd
+638. Jelica Đokić, redovna profesorka u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+639. Mila Samardžić, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+640. Marija Pavlović, docent, Učiteljski fakultet, Univerzitet u Beogradu
+641. Vladimir Nešić, vanredni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+642. Danijela Vojnović Milutinović, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+643. Snežana Popov, istraživač saradnik, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+644. Željko Milanović, vanredni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+645. Miomir Vukićević,vanredni profesor u penziji, Fakultet za mašinstvo i građevinarstvo, Univerzitet u Kragujevcu
+646. Vladimir Ž. Jovanović, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+647. Boris Šobot, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+648. Bojan Pajtić, vanredni profesor, Pravni fakultet, Univerzitet u Novom Sadu
+649. Slavko Mojsilović, naučni saradnik, Instut za medicinska istraživanja, Univerzitet u Beogradu
+650. Radmila Stikić, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+651. Jelena Milašin, redovni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+652. Ratko Stanković, redovni profesor, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Nišu
+653. Petar Lokin,redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+654. Jasna Ivanović, viši naučni saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+655. Jasmina Ludoški, vanredna profesorka, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+656. Katarina Batalović, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+657. Katarina Radojičić Firevski, samostalni umetnički saradnik, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+658. Marko Pešić, istraživač, Prirodno-matematički fakultet, Univerzitet u Kragujevcu
+659. Vesna Cakeljić, redovni profesor, Fakultet organizacionih nauka, Univerzitet u Beogradu
+660. Jovan I. Rakidžić, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+661. Jelena Zagorac, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+662. Miroslav Stojanović, redovni profesor, Medicinski fakultet, Univerzitet u Nišu
+663. Laura Spariosu, redovna profesorka, Filozofski fakultet, Univerzitet u Novom Sadu
+664. Srđan Stojanović, viši naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+665. Miodrag Petković, redovni profesor u penziji, Elektronski fakultet, Univerzitet u Nišu
+666. Sanja Miketić Subotić, docent, Filozofski fakultet, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+667. Stevan Jokic, naučni savetnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+668. Višnja Kisić, docentkinja, Fakultet za sport i turizam TIMS, Univerzitet Educons, Novi Sad
+669. Goran Tomka, docent, Fakultet za sport i turizam TIMS, Univerzitet Educons, Novi Sad
+670. Nevena Puač, naučni savetnik, Institut za fiziku, Univerzitet u Beogradu
+671. Vesna Poharc-Logar, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+672. Goran Roglić, redovni profesor, Hemijski fakultet, Univerzitet u Beogradu
+673. Vera Spasenović, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+674. Mihovil Logar, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+675. Ljubiša Kočinac, profesor emeritus, Prirodno-matematički fakultet, Univerzitet u Nišu
+676. Ana Pucar, vanredni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+677. Dragoslav Šumarac, redovni profesor, Građevinski fakultet, Univerzitet u Beogradu
+678. Jelena Pešić, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+679. Ira Prodanov Krajišnik, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+680. Vera Nikolić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+681. Snežana Pešić Rajić, vanredni profesor, Fakultet savremenih umetnosti, Univerzitet Privredna akademija Novi Sad
+682. Sanja Dimoski, vanredni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+683. Jelena Ajtić, vanredni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+684. Dragiša R. Trailović, redovni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+685. Sergej Tomić, naučni saradnik, Institut za primenu nuklearne energije, Univerzitet u Beogradu
+686. Gordana Stojić, docent, Filozofski fakultet, Univerzitet u Nišu
+687. Dušan Vranješević, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+688. Ivana Kovačević, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+689. Tijana Dabovic, docent, Geografski fakultet, Univerzitet u Beogradu
+690. Tatjana Došenović, redovni profesor, Tehnološki fakultet, Univerzitet u Novom Sadu
+691. Vladan Čokić, naučni savetnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+692. Iris Žeželj, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+693. Milorad Vujičić, docent, Biološki fakultet, Univerzitet u Beogradu
+694. Maja Ivanović, docent, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+695. Aleksandar Đorđević, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+696. Srđan Rakić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+697. Branislav Jović, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+698. Zoran Stevanović, redovni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+699. Mira Petronijević, redovni profesor u penziji, Građevinski fakultet, Univerzitet u Beogradu
+700. Boris Mamužić, saradnik u nastavi, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+701. Adriana Zaharijević, naučna saradnica Instituta za filozofiju i društvenu teoriju, Univerzitet u Beogradu
+702. Jelena Blagojević, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+703. Dušan Antonović, redovni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+704. Jelena Todorović, redovni profesor, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+705. Marija Tasić, vanredni profesor, Tehnološki fakultet, Univerzitet u Nišu
+706. Biljana Đorđević, asistent, Mašinski fakultet, Univerzitet u Nišu
+707. Radomir Folić, profesor emeritus, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+708. Nadja Kurtović Folić, redovni profesor u penziji, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+709. Branko Romčević, vanredni profesor, Fakultet bezbednosti, Univerzitet u Beogradu
+710. Mihajlo Pantić, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+711. Dubravka Cvejić, naučni savetnik, Institut za primenu nuklearne energije, Univerzitet u Beogradu
+712. Stevica Graovac, vanredni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+713. Jelena Rašković, asistent, Ekonomski fakultet, Univerzitet u Beogradu
+714. Milan Mirić, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+715. Tatjana Tasić, asistent, Stomatološki fakultet, Univerzitet u Beogradu
+716. Stevan Stojadinović, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+717. Vladan Čelebonović,naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+718. Ankica Vučković, docent, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+719. Ivana Simonović, docentkinja, Pravni fakultet, Univerzitet u Nišu
+720. Dr Vladimir Žikić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+721. Aleksandra Lončar, docent, Filozofski fakultet, Univerzitet u Nišu
+722. Vladimir Despotović, vanredni profesor, Tehnički fakultet u Boru, Univerzitet u Beogradu
+723. Miroslav Konstantinović, naučni savetnik u penziji, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+724. Jelena Munćan, docent, Mašinski fakultet, Univerzitet u Beogradu
+725. Zoran Krstić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+726. Miloš Subotić, stručni saradnik, , Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+728. Mihajlo Manić, vanredni profesor, Fakultet za diplomatiju i bezbednost, Univerzitet u Beogradu
+729. Maja Šćepanović, naučni savetnik, Institut za fiziku, Univerzitet u Beogradu
+730. Biljana Panić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+731. Aleksandar Obradović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+732. Vladimir Stevanović, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+0.   Vladimir Stevanović, redovni član SANU
+733. Biljana Tešanović, vanredni profesor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+734. Marica Rajković, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+735. Snežana Jovanović-Srzentić, saradnik u nastavi, Medicinski fakultet, Univerzitet u Beogradu
+736. Miladin Ševarlić, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+737. Tanja Ćirković Veličković, redovni profesor, Hemijski fakultet, Univerzitet u Beogradu
+738. Zoran Stević, redovni profesor, Tehnički fakultet u Boru, Univerzitet u Beogradu
+739. Aleksandar Baucal, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu
+740. Jelena Đokić, naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+741. Marko Avramović, istraživač saradnik, Institut za književnost i umetnost, Beograd
+742. Dobrila Škatarić, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+743. Snezana Bojović, redovni profesor u penziji, Hemijski fakultet, Univerzitet u Beogradu
+744. Radovan Omorjan, redovni profesor, Tehnološki fakultet, Univerzitet u Novom Sadu
+745. Ivan Simić, docent, Arhitektonski fakultet, Univerzitet u Beogradu
+746. Ljubomir Miladinović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+747. Radovan Petrović, redovni profesor u penziji, , Univerzitet Union - Nikola Tesla
+748. Dimitar Jakimov, naučni saradnik, Medicinski fakultet, Univerzitet u Novom Sadu
+749. Živko Ćurčić, naučni saradnik, Institut za ratarstvo i povrtarstvo, Novi Sad
+750. Dubravka Živković, naučni saradnik, Fakultet inženjerskih nauka Univerziteta u Kragujevcu
+751. Mina Đikanović, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+752. Veselin Dragišić, redovni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+753. Živojin Stamenković, docent, Mašinski fakultet, Univerzitet u Nišu
+754. Dragoljub Belić, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+755. Vladimir Živanović, docent, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+756. Davor Peruško, viši naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+757. Branka Popović, vanredni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+758. Jovan Ćirić, naučni saradnik, Istraživačko razvojni centar “Alfatec”, Univerzitet u Nišu
+759. Nevena Varnica, docentkinja, Filozofski fakultet, Univerzitet u Novom Sadu
+760. Olivera Latković, naučni saradnik, Astronomska opservatorija, Beograd
+761. Ljubica Đačanin Far, asistent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+762. Branislava Gemović, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+763. Vladimir Beškoski, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+764. Vladimir Đorić, docent, Saobraćajni fakultet, Univerzitet u Beogradu
+765. Predrag Mimović, redovni profesor, Ekonomski fakultet, Univerzitet u Kragujevcu
+766. Nebojša Petrović, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+767. Katarina Zeljić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+768. Slobodan Ranković, docent, Građevinsko-arhitektonski fakultet, Univerzitet u Nišu
+769. Slavoljub Živković, redovni profesor, Stomatološki fakultet, Univerzitet u Beogradu
+770. Predrag Radišić, naučni saradnik, Istraživačko-razvoni institut za informacione tehnologije biosistema, Univerzitet u Novom Sadu
+771. Marina Radić Šestić, redovni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+772. Marina Savić, docent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+773. Mladen Vujošević, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+774. Nevena Jevtić, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+775. Aleksandar Boričić, naučni saradnik, Mašinski fakultet Univerziteta u Nišu
+776. Tanja Berić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+777. Mihailo Jelić, docent, Biološki fakultet, Univerzitet u Beogradu
+778. Miodrag Banješević, docent, Tehnički fakultet u Boru, Univerzitet u Beogradu
+779. Ivan Bugarski, naučni saradnik, Arheološki institut, Beograd
+780. Jelisaveta Petrović, docent, Filozofski fakultet, Univerzitet u Beogradu
+781. Stanko Vlaški, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+782. Desanka Milanović, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+783. Miroslav Marjanović, docent, Građevinski fakultet, Univerzitet u Beogradu
+784. Slađana Kostić Rajačić, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+785. Goran Pavlović, naučni saradnik, Istraživačko razvojni centar “Alfatec”, Univerzitet u Nišu
+786. Đorđe Miljković, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+787. Danijela Laketa, docent, Biološki fakultet, Univerzitet u Beogradu
+788. Milutin Blagojević, naučni savetnik u penziji, Institut za fiziku, Univerzitet u Beogradu
+789. Lara Lebedinski, naučni saradnik,Institut ekonomskih nauka, Univerzitet u Beogradu
+790. Đorđe Okanović, naučni savetnik u penziji, Naučni institut za prehrambene tehnologije, Univerzitet u Novom Sadu
+791. Božo Drašković, redovni profesor u penziji, Institut ekonomskih nauka, Univerzitet u Beogradu
+792. Nenad Teofanov, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+793. Mirjana Dimitrijević, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+794. Marijana Petković, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+795. Jelena Grahovac, naučni saradnik, Institut za onkologiju i radiologiju Srbije
+796. Ljubomir Jacić, profesor, Visoka tehnička škola strukovnih studija Požarevac
+797. Diana Lupulović, naučni saradnik, Naučni institut za veterinarstvo “Novi Sad”, Novi Sad
+798. Gorana Mitić, redovni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+799. Goran Milić, vanredni profesor, Šumarski fakultet, Univerzitet u Beogradu
+800. Miodrag Manić, redovni profesor, Mašinski fakultet, Univerzitet u Nišu
+801. Smilja Teodorović, vanredni profesor, Kriminalističko-policijski univerzitet, Beograd
+802. Emilija Marinković, naučni saradnik, Institut za virusologiju, vakcine i serume “Torlak”
+803. Tatjana Damnjanović, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+804. Branka Vasiljević, naučni savetnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+805. Ivana Grković, viši naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+806. Tanja Jevđović, docent, Biološki fakultet, Univerzitet u Beogradu
+807. Željko Čupić, naučni savetnik, Naučno društvo Srbije
+808. Milutin Stepić, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+809. Veljko Vuković, redovni profesor u penziji, Fakultet pedagoških nauka, Univerzitet u Kragujevcu
+810. Maja Lazarević, docent, Biološki fakultet, Univerzitet u Beogradu
+811. Radovan Antonijević, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu
+812. Aleksandar M. Nikolić, vanredni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+813. Milena Potić Floranović, samostalni stručni saradnik, Medicinski fakultet, Univerzitet u Nišu
+814. Dragić Banković, redovni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Kragujevcu
+815. Vesna Kojić, naučni saradnik, Medicinski fakultet, Univerzitet u Novom Sadu
+816. Slobodan Davidović, istraživač saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+817. Jelena Živković, naučni saradnik, Institut za proučavanje lekovitog bilja “Dr Josif Pančić”
+818. Zlata Markov Ristić, naučni saradnik, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+819. Ana Damjanović Veličković, istraživač saradnik, Institut za onkologiju i radiologiju Srbije
+820. Branka Tucić, naučni savetnik u penziji, Institut za biološka istraživanja “Siniša Stanković”, Univerziteta u Beogradu
+821. Ana Kozmidis Petrović, redovni profesor, Fakultet tehničkih nauka,
+Univerzitet u Novom Sadu
+822. Maja Nedović, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+823. Ivan Petronijević, istraživač saradnik, Fizički fakultet, Univerzitet u Beogradu
+824. Sonja Protić, naučni saradnik, Institut za kriminološka i sociološka istraživanja, Beograd
+825. Miloš Vuletić, docent, Filozofski fakultet, Univerzitet u Beogradu
+826. Miodrag B. Jovanović, redovni profesor u penziji, Građevinski fakultet, Univerzitet u Beogradu
+827. Dejan Radivojević, docent, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+828. Snežana Gordić, asistent, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+829. Danilo Stojanović, redovni profesor u penziji, Fakultet tehničkih nauka u Čačku, Univerzitet u Kragujevcu
+830. Momir Samardžić, redovni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+831. Dušan Milić, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+832. Emilija Mijić, istraživačica – saradnica, Institut društvenih nauka, Beograd
+833. Jelena Petrović, docent, Filozofski fakultet, Univerzitet u Nišu
+834. Jovanka Pantović, redovni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+835. Suzana Dimitrijević-Branković, redovni profesor, Tehnološko-metalurški
+fakultet, Univerzitet u Beogradu
+836. Tihomir Brajović, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+837. Joana Zakševska, naučni savetnik, Institut za opštu i fizičku hemiju, Beograd
+838. Nada Miličić, redovni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+839. Gordana Budimir-Ninković, redovni profesor, Fakultet pedagoških nauka, Univerzitet u Kragujevcu
+840. Damir Mađarević, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+841. Gordana Timotijević, viši naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+842. Atila Čeki, naučni saradnik, Astronomska opservatorija, Beograd
+843. Rada Drezgić, docent, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+844. Branka Stevanović, redovni profesor u penziji, Biološki fakultet, Univerzitet u Beogradu
+845. Tamara Naumović, asistent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+846. Jelena Srna, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+847. Dragana Matić, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+848. Goran S. Nikolić, asistent, Elektronski fakultet, Univerzitet u Nišu
+849. Živko Jovanović,naučni saradnik,Biološki fakultet, Univerzitet u Beogradu
+850. Nikola Kotur, naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+851. Ljubo Nedović, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+852. Aleksandar Luj Todorović, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+853. Aleksandar Marinković, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+854. Ružica Rosandić, redovni profesor, Učiteljski fakultet, Univerzitet u Beogradu
+855. Ivica Dimkić, naučni saradnik, Biološki fakultet, Univerzitet u Beogradu
+856. Miloš Diklić, istraživač saradnik, Institut za medicinska istraživanja, Univerziteta u Beogradu
+857. Ana Simonović, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+858. Slaviša Stamenković, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+859. Mice Poptsis, vanredni profesor, Fakulteta likovnih umetnosti u penziji, Univerzitet umetnosti u Beogradu
+860. Ivana Matić, naučni saradnik, Institut za onkologiju i radiologiju Srbije
+861. Edib Dobardžić, vanredni profesor, Fizički fakultet, Univerzitet u Beogradu
+862. Predrag Puđa, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+863. Tatjana Cvrković, viši naučni saradnik, Institut za zaštitu bilja i životnu sredinu
+864. Srđan Marković,redovni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+865. Dragan Delić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+866. Vladimir Momčilović, vanredni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+867. Lilijana Čičkarić, naučna savetnica, Institut društvenih nauka, Beograd
+868. Milica Vukelić, docentkinja, Filozofski fakultet, Univerzitet u Beogradu
+869. Vesna Maksimović, naučni savetnik u penziji, Institut za molekularnu genetiku i genetičko inzenjerstvo, Univerzitet u Beogradu
+870. Aleksandra Daković, naučni savetnik, Institut za tehnologiju nuklearnih i drugih mineralnih sirovina, Beograd
+871. Predrag Kolarž, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+872. Zoran Perović, docent, Gradjevinski fakultet, Univerzitet u Beogradu
+873. Vesna Bogojević-Arsić, redovni profesor, Fakultet organizacionih nauka, Univerzitet u Beogradu
+874. Dejan Zagorac, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+875. Balša Kašćelan, vanredni profesor, Fakultet za poslovne studije i pravo, Univerzitet Union
+876. Rada Matić, viši naučni saradnik, Institut za biološka istraživanja
+“Siniša Stanković”, Univerzitet u Beogradu
+877. Gordana Milovanović, vanredni profesor, Ekonomski fakultet, Univerzitet u Kragujevcu
+878. Mladen Kovačević, istraživač-saradnik, Institut BioSens, Univerzitet u Novom Sadu
+879. Mihajlo Vićentijević,istraživač saradnik, Naučni institut za veterinarstvo Srbije
+880. Aleksandra Mišan, naučni savetnik, Naučni institut za prehrambene tehnologije, Univerzitet u Novom Sadu
+881. Jelena Milinković, naučna saradnica, Institut za književnost i umetnost, Beograd
+882. Srđan Marinković, redovni profesor, Ekonomski fakultet, Univerziteta u Nišu
+883. Milica Vlahović, viši naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+884. Teodora Janković, naučni savetnik, Institut za proučavanje lekovitog bilja “Dr Josif Pančić”
+885. Sanja Martinović, viši naučni saradnik, Institut za hemiju tehnologiju i metalurgiju, Univerzitet u Beogradu
+886. Božo Trbojević, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+887. Gordana Tomović, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+888. Filip Trpčevski, asistent, Građevinski fakultet, Univerzitet u Beogradu
+889. Milica Stevanović, istraživač pripravnik, Prirodno-matematički fakultet, Univerzitet u Nišu
+890. Marina Puja-Badesku, redovni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+891. Ivanka Karadžić, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+892. Milica Radibratović, istraživač saradnik, Institut za hemiju, tehnologiju i metalurgiju,  Univerzitet u Beogradu
+893. Ivanka Holclajtner-Antunović, redovni profesor u penziji, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+894. Radomir Kobilarov, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+895. Veljko Krstonošić, vanredni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+896. Jovanka Miljuš-Đukić,naučni savetnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+897. Srđan Teparić, docent, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+898. Nenad Bundaleski, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+899. Dragana Stojičić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+900. Jovanka Lević, naucni savetnik u penziji, , Univerzitet u Novom Sadu
+901. Anica Draganić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+902. Violeta Slavkovska, vanredna profesorka, Farmaceutski fakultet,
+Univerzitet u Beogradu
+903. Zoran Dimić, naučni saradnik, Lola institut, Beograd
+904. Nemanja Gojković, istraživač-pripravnik, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+905. Vladimir Mihić, vanredni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+906. Menka Petkovska, redovni profesor, Tehnološko-metalurški fakultet Univerziteta u Beogradu
+907. Dragica Radojković, naučni savetnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+908. Žarko Vujošević, docent, Filozofski fakultet, Univerzitet u Beogradu
+909. Danilo Šarenac, viši naučni saradnik, Institut za savremenu istoriju
+910. Janko Međedović, naučni saradnik, Institut za kriminološka i sociološka istraživanja, Beograd
+911. Vesna Milankov, redovna profesorka, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+912. Božidar Nikolć, docent, Fizički fakultet, Univerzitet u Beogradu
+913. Sanja Tošić, naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+914. Jelena Karanović, naučni saradnik, Biološki fakultet, Univerzitet u Beogradu
+915. Milena Cvijanović, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+916. Ivana Tomić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+917. Mirjana Brdar, docent, Tehnološki fakultet, Univerzitet u Novom Sadu
+918. Ivana Mirović, viši nastavnik stranog jezika, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+919. Andrijana Berić, nastavnik stranog jezika, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+920. Ljubiša Topisirović, redovni profesor u penziji, Biološki fakultet, Univerzitet u Beogradu
+921. Vladana Hamović, naučni savetnik u penziji, Institut za ekonomiku poljoprivrede, Beograd
+922. Bore Jegdić, viši naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+923. Biserka Komnenić, profesor, Visoka poslovna škola strukovnih studija
+924. Neda Aničić, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+925. Dalibor Petrović, vanredni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+926. Branislav Cvetković, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+927. Miroslav Andrić, vanredni profesor, Stomatološki fakultet Univerziteta u Beogradu
+928. Tamara Saksida, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+929. Branka Dimitrijević, redovni profesor, Saobraćajni fakultet, Univerzitet u Beogradu
+930. Jelena Samardžić, naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+931. Milan Radović, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+932. Slobodan Milonjić, naučni savetnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+933. Vlado Uljarević, asistent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+934. Ivan Juranić, redovni profesor u penziji, Hemijski fakultet, Univerzitet u Beogradu
+935. Aleksandra Mitrović, viši naučni saradnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+936. Miroslav Lazić, viši naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+937. Dejan Karlečik, stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+938. Dušanka Savić-Pavićević, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+939. Vojislav Stojković, viši naučni saradnik u penziji, Institut za strategijska istraživanja, Beograd
+940. Slobodan Vuković, naučni savetnik u penziji, Institut za fiziku, Univerzitet u Beogradu
+941. Milan Subotić, viši naučni saradnik, Institut za evropske studije, Beograd
+942. Velimir Jovanović, redovni profesor u penziji, Geografski fakultet Univerziteta u Beogradu
+943. Ksenija Kolundžija, docent, Medicinski fakultet, Univerzitet u Novom Sadu
+944. Katarina Zivković, istraživač-pripravnik, Prirodno-matematički fakultet, Univerzitet u Nišu
+945. Dejan Mirčić, docent, , Državni univerzitet u Novom Pazaru
+946. Petar Milenković, naučni saradnik, Institut za onkologiju i radiologiju Srbije
+947. Branka B. Petković, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+948. Veljko Jovanović, vanredni profesor, Filozofski fakultet, Univerzitet u Novom Sadu
+949. Dejan Vučković, saradnik u nastavi, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+950. Sonja Šuvakov, asistent, Medicinski fakultet, Univerzitet u Beogradu
+951. Snežana Stojiljković, redovni profesor, Filozofski fakultet Univerziteta u Nišu
+952. Nikola Novaković, viši naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+953. Dragan R. Milivojević, naučni saradnik u penziji, Institut za rudarstvo i metalurgiju
+954.Jelena Jović, viši naučni saradnik, Institut za zaštitu bilja i životnu sredinu
+955. Jelena Božunović, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+956. Kristina Šarić, vanredni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+957. Srđan Savić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+958. Branko Tomić, viši naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+959. Miloš Lukić, viši naučni saradnik, Institut za stočarstvo, Beograd
+960. Ivana Boljević, istraživač saradnik, Institut za onkologiju i radiologiju Srbije
+961. Stanislav Simin, docent, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+962. Ljiljana Gavrilović, naučni savetnik,Etnografski institut SANU
+963. Zorana Lužanin, redovni profesor, Prirodno-matematički fakultet,
+Univerzitet u Novom Sadu
+964. Danijela Tešendić, vanredni profesor, Prirodno-matematički fakultet Univerziteta u Novom Sadu
+965. Slavica Dmitrović, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+966. Irina Subakov, stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+967. Marijana Skorić, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+968. Ivana Stojanović, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+969. Dušica Filipović Đurđević, vanredna profesorka, Filozofski fakultet,
+Univerzitet u Beogradu
+970. Biljana Grgurović, profesor strukovnih studija, Visoka škola strukovnih studija za informacione i komunikacione tehnologije, Beograd
+971. Vesna Đorđević, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+972. Filip Andrić, docent, Hemijski fakultet, Univerzitet u Beogradu
+973. Miloš Vlainić, istraživač saradnik, Institut za fiziku, Univerzitet u Beogradu
+974. Goran Bošković, redovni profesor u penziji, Tehnološki fakultet, Univerzitet u Novom Sadu
+975. Radosav Vidaković, klinički asistent, Medicinski fakultet, Univerzitet u Beogradu
+976. Slobodan N. Savić, redovni profesor, Medicinski fakultet Univerziteta u Beogradu
+977. Vladan Bajić, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+978. Saša Stanković, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+979. Irena Petrović, asistent, Filozofski fakultet, Univerzitet u Beogradu
+980. Petar Đukić, redovni profesor, Tehnološko-metalurški fakultet,
+Univerzitet u Beogradu
+981. Branislav Nastasijević, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+982. Ana Kolaković, naučni saradnik, Institut za nuklearne nauke “Vinča”,
+Univerzitet u Beogradu
+983. Mira Bjelaković, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+984. Dejan Bezbradica, redovni profesor, Tehnološko-metalurški fakultet,
+Univerzitet u Beogradu
+985. Ana Kramar, naucni saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+986. Tatjana Kop, naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+987. Natalija Bogdanović, docent, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+988. Biljana Nikolić, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+989. Aleksandra Marković, naučni saradnik, Institut za srpski jezik SANU
+990. Vladimir Mitić, asistent, Elektronski fakultet u Nišu, Univerzitet u Nišu
+991. Gordana Cvijić, redovni profesor u penziji, Biološki fakultet Univerziteta u Beogradu
+992. Ivana Pavlović, samostalni umetnički saradnik, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+993. Miljana Milojević, docent, Filozofski fakultet, Univerzitet u Beogradu
+994. Irena Novaković, viši naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+995. Radojka Vukčević, redovni profesor, Filološki fakultet, Univerzitet u Beogradu
+996. Amarela Terzić-Vidojević, naučni savetnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+997. Svetlana Stanarevic, vanredna profesorka, Fakultet bezbednosti, Univerzitet u Beogradu
+998. Goran Nikolić, viši naučni saradnik, Institut za evropske studije, Beograd
+999. Obrad Peković, vanredni profesor Fakulteta tehničkih nauka Univerziteta u Novom Sadu
+1000. Nebojša R. Menković, naučni savetnik, Institut za proučavanje lekovitog bilja “Dr Josif Pančić”, Beograd
+1001. Slobodan Radošević, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1002. Ivana Šenk, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1003. Sava Magazinović, stručni saradnik, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1004. Kristijan Olah, naučni saradnik, Institut za književnost i umetnost, Beograd
+1005. Đurica Grga, redovni profesor, Stomatološki fakultet Univerziteta u Beogradu
+1006. Radmila Resanović, redovni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1007. Mila Pucar, naučni savetnik u penziji, Institut za arhitekturu i urbanizam Srbije, Beograd
+1008. Milica Rašić Amon, istraživač saradnik, Istraživačko razvojni centar “Alfatec”, Univerzitet u Nišu
+1009. Milovan Živković, redovni profesor, Poljoprivredni fakultet,
+Univerzitet u Beogradu
+1010. Ljiljana Vračar, redovni profesor u penziji, Tehnološko-metalurški
+fakultet, Univerzitet u Beogradu
+1011. Miloš Jovanović, stručni saradnik, Biološki fakultet, Univerzitet u Beogradu
+1012. Maja Natić, vanredni profesor, Hemijski fakultet, Univerzitet u Beogradu
+1013. Milan Igrutinović, istraživač-saradnik, Institut za evropske studije, Beograd
+1014. Ljiljana Đukanović, docent, Arhitektonski fakultet Univerziteta u Beogradu
+1015. Goran Savić, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1016. Nikola Maravić, asistent, Tehnološki fakultet, Univerzitet u Novom Sadu
+1017. Predrag Osmokrovic, redovni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+1018. Nikola Nikačević, vanredni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1019. Dragana Dimitrijević, docent, Filozofski fakultet Univerziteta u Beogradu
+1020. Karmen Stankov, redovni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+1021. Aleksandar Čupić, docent, Saobraćajni fakultet, Univerzitet u Beogradu
+1022. Mirjana Senić Ružić, asistent, Filozofski fakultet, Univerzitet u Beogradu
+1023. Zorica Ivanovic, docent, Filozofski fakultet, Univerzitet u Beogradu
+1024. Velimir Šećerov, redovni profesor, Geografski fakultet, Univerzitet u Beogradu
+1025. Sanja Pajić, vanredni profesor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+1026. Dejan Šabić, redovni profesor, Geografski fakultet, Univerzitet u Beogradu
+1027. Ivan Ratkaj, redovni profesor, Geografski fakultet, Univerzitet u Beogradu
+1028. Borislav Stojkov, redovni profesor u penziji, Geografski fakultet, Univerzitet u Beogradu
+1029. Bogdan Lukić, vanredni profesor, Geografski fakultet, Univerzitet u Beogradu
+1030. Sanja Manojlović, vanredni profesor, Geografski fakultet, Univerzitet u Beogradu
+1031. Marija Belij, docent, Geografski fakultet, Univerzitet u Beogradu
+1032. Bojan Vračarević, asistent, Geografski fakultet, Univerzitet u Beogradu
+1033. Aleksandar Kapuran, viši naučni saradnik,Arheološki institut u Beogradu
+1034. Vuk Stambolović, vanredni profesor u penziji, Medicinski fakultet,  Univerzitet u Beogradu
+1035. Boško Blagojević, docent, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+1036. Gvozden Eror, naučni savetnik u penziji, Institut za književnost i umetnost, Beograd
+1037. Hristina Stevanović Čarapina,  vanredni profesor u penziji,  Fakultet zaštite životne sredine, Univerzitet Educons
+1038. Aleksandra Mitrović, naučni savetnik u penziji, Institut za ispitivanje materijala, Beograd
+1039. Danijela S. Petrović, vanredna profesorka, Filozofski fakultet, Univerzitet u Beogradu
+1040. Bojan Bondžić, viši naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1041. Milan Stančić, docent, Filozofski fakultet, Univerzitet u Beogradu
+1042. Ivana Živaljević, naučni saradnik, Institut BioSens, Univerzitet u Novom Sadu
+1043. Čedomir Vasić, profesor emeritus, , Univerzitet umetnosti u Beogradu
+1044. Teodor Ast, redovni profesor u penziji, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1045. Miloš Marković, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1046. Boris Popov, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+1047. Ivan Ćirić, docent,  Mašinski fakultet, Univerzitet u Nišu
+1048. Emina Mihajlović, redovni profesor, Fakultet zaštite na radu, Univerzitet u Nišu
+1049. Petar S. Milosavljević, redovni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1050. Stefan Stošić, istraživač-saradnik, Institut za zaštitu bilja i životnu sredinu
+1051. Vanja Bugarski-Stanojević, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1052. Ljubomir Jevtović, istraživač saradnik, Arheološki institut
+1053. Tatjana Stević, naučni saradnik, Institut za proučavanje lekovitog bilja “Dr Josif Pančić”
+1054. Miloš Tešić, redovni profesor u penziji, Fakultet tehničkih nauka,  Univerzitet u Novom Sadu
+1055. Sanja Marinović, naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1056. Tatjana Varljen, stručni saradnik, Medicinski fakultet, Univerzitet u
+Beogradu
+1057. Stanislava Stanojević, naučni savetnik, Institut za virusologiju, vakcine i serume “Torlak”
+1058. Snežana Miletić, asistent, Ekonomski fakultet, Univerzitet u Beogradu
+1059. Dragan Uskoković, naučni savetnik, Institut tehničkih nauka SANU, Beograd
+1060. Marija Čolić, asistent, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+1061. Olivera Milošević, naučni savetnik, Institut tehničkih nauka SANU, Beograd
+1062. Žanka Bojić-Trbojević, viši naučni saradnik, Institut za primenu nuklearne energije, Univerzitet u Beogradu
+1063.Vesna Ivanović, viši naučni saradnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1064. Željko Ivaniš, redovni profesor u penziji, Fakultet bezbednosti, Univerzitet u Beogradu
+1065. Slađana Spasić, naučni savetnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+1066. Jelena Pavlović, naučni saradnik, Institut za multidisciplinarna  istraživanja, Univerzitet u Beogradu
+1067. Sanja Vujnović, docent, Elektrotehnički fakultet, Univerzitet u Beogradu
+1068. Aca Krinulović, viši stručni saradnik,Institut “Mihajlo Pupin” Beograd, Univerzitet u Beogradu
+1069. Lidija Mančić, naučni savetnik, Institut tehničkih nauka SANU
+1070. Vladimir Jovanović, naučni saradnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+1071. Jovan Radunović, redovni profesor u penziji, Elektrotehnički fakultet, Univerzitet u
+Beogradu
+1072. Ivana Pajic-Lijaković, naučni savetnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1073.  Predrag Tadić, docent, Elektrotehnički fakultet, Univerzitet u Beogradu
+1074. Milan Savić,redovni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+1075. Stanislava Stošić-Grujičić, naučni savetnik u penziji, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1076. Tatjana Šoštarić, naučni saradnik, Institut za tehnologiju nuklearnih i drugih mineralnih sirovina, Beograd
+1077. Nada Majkić-Singh, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+1078. Aleksandra Dekanski, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1079. Miroslav Šilić, docent,  Akademija umetnosti, Univerzitet u Novom Sadu
+1080. Milica Mitrović, docent, Filozofski fakultet, Univerzitet u Nišu
+1081. Dejan Ivezić, redovni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1082. Vesna Bjegović-Mikanović, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1083. Bojana Krstonošić, docent, Medicinski fakultet, Univerzitet u Novom Sadu
+1084. Goran S. Djordjević, redovni profesor,  Prirodno-matematički fakultet, Univerzitet u Nišu
+1085. Ivica Marušević, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+1086. Tijana Karić, istraživač-saradnik, Institut za kriminološka i sociološka istraživanja, Beograd
+1087. Sanja Batić Očovaj, asistentkinja,  Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+1088. Olivera Žižović, docent, Departman za filološke nauke, Državni univerzitet u Novom Pazaru
+1089. Anđeljko Petrović,  vanredni profesor , Biološki fakultet, Univerzitet u Beogradu
+1090. Danijela Đorović, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+1091. Ana Alil, istraživač saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1092. Miroslav Kopečni, naučni savetnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1093. Marina Stanić, naučni saradnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+1094. Aleksandar Cvetanović, redovni profesor u penziji, Građevinski fakultet, Univerzitet u Beogradu
+1095. Aleksandar Leposavić, naučni saradnik, Institut za voćarstvo, Čačak
+1096. Bogdan Brković, asistent, Elektrotehnički fakultet, Univerzitet u Beogradu
+1097. Duška Blagojević, redovni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+1098. Sanja Radičević, naučni saradnik, Institut za voćarstvo, Čačak
+1099. Mirjana Divac Jovanović, vanredni profesor, Fakultet za medije i komunikacije, Univerzitet Singidunum, Beograd
+1100. Aleksandar Ivić, redovni profesor, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+0.    Aleksandar Ivić, redovni član SANU
+1101. Slađana Marić, viši naučni saradnik, Institut za voćarstvo, Čačak
+1102. Mira Milisavljević, naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+1103. Ana Stolić, viša naučna saradnica, Istorijski institut, Beograd
+1104. Milica Markelić, docent, Biološki fakultet , Univerzitet u Beogradu
+1105. Gordana Malovic, naučni savetnik, Institut za fiziku, Univerzitet u Beogradu
+1106. Vladan Jovanović, viši naučni saradnik, Institut za noviju istoriju Srbije
+1107. Mihajla Đan, redovni profesor, Prirodno-matematički fakultet,
+Univerzitet u Novom Sadu
+1108. Milica Milojević, docent, Arhitektonski fakultet, Univerzitet u Beogradu
+1109. Marija Dragojlović, redovni profesor u penziji, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+1110. Tatjana Kaluđerovic Radoičić, vanredni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1111. Gordana Kozoderović, vanredni profesor, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+1112. Lora Petronić Petrović, nastavnica španskog jezika, Fakultet zdravstvenih, pravnih i poslovnih studija, Univerzitet Singidunum
+1113. Milica Nedeljković, istraživač saradnik, Institut za onkologiju i radiologiju Srbije
+1114. Anica Horvat, naučni savetnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1115. Lela Korićanac, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1116. Jakov Andrijašević, istraživač-saradnik, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1117. Ivana Klun, viši naučni saradnik, Instut za medicinska istraživanja, Univerzitet u Beogradu
+1118. Rajko N. Dimitrijević, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+1119. Nenad Vranješ, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+1120. Mirjana Atanacković, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+1121. Saša Minić, viši stručni saradnik, Elektrotehnički institut “Nikola Tesla”, Univerzitet u Beogradu
+1122. Vladimir Adamović, istraživač saradnik, Institut za tehnologiju nuklearnih i drugih mineralnih sirovina, Beograd
+1123. Zorka Kašić, redovni profesor u penziji, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1124. Milutin Kostić, klinički asistent,  Medicinski fakultet, Univerzitet u Beogradu
+1125. Mirjana Đukić, redovni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1126. Anja Ilić Božović, asistent, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1127. Tatjana Volkov Husović, redovni profesor, Tehnološko-metalurški fakultet,  Univerzitet u Beogradu
+1128. Milena Milićević, naučni saradnik, Institut za kriminološka i sociološka istraživanja, Beograd
+1129. Milica Mirić, docent, Filozofski fakultet, Univerzitet u Beogradu
+1130. Marija Jakovljević, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”,  Univerzitet u Beogradu
+1131. Ana Vjetrov, asistent, Fakultet FEFA, Univerzitet Metropolitan
+1132. Dejana Vuković,  redovni profesor,  Medicinski fakultet, Univerzitet u Beogradu
+1133. Jelena Penjišević, naučni saradnik, Institut za hemiju, tehnologiju i metalurgiju,  Univerzitet u Beogradu
+1134. Zorica Milošević, docent, Filozofski fakultet, Univerzitet u Beogradu
+1135. Miroslav Demajo, naučni savetnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1136. Milena Gošić Arama, docent, Filozofski fakultet, Univerzitet u Beogradu
+1137. Dragana Bogdanović-Stojanović, vanredni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+1138. Milan Dabović, naučni savetnik u penziji, Institut za hemiju, tehnologiju i metalurgiju,  Univerzitet u Beogradu
+1139. Filip Radovanović, viši naučni saradnik, Institut tehničkih nauka SANU
+1140. Marija Vranješ Milosavljević, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+1141. Slađana Marić, viši naučni saradnik, Institut za voćarstvo, Čačak
+1142. Mihajlo Ćirić, istraživač saradnik, Institut za ratarstvo i povrtarstvo, Novi Sad
+1143. Aleksandra Stefanović, vanredni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1144. Aleksandra Zeljković, vanredni profesor,  Farmaceutski fakultet, Univerzitet u Beogradu
+1145. Katarina Stojanović, docent, Biološki fakultet, Univerzitet u Beogradu
+1146. Jelisaveta Čkrkić, istraživač saradnik, Biološki fakultet, Univerzitet u Beogradu
+1147. Korana Kocić, istraživač saradnik, Biološki fakultet, Univerzitet u Beogradu
+1148. Bojana Obradović, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1149. Gorana Stamenković, naučni savetnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1150. Srđan Hofman, profesor emeritus,  Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1151. Radmila Pavlović, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1152. Dragana Ćorović, docent, Šumarski fakultet, Univerzitet u Beogradu
+1153. Gorčin Cvijanović, naučni saradnik, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+1154. Manja Zec, naučni saradnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+1155. Miroljub Vilotijević, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1156. Iva Božić, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1157. Ozren Ocić, redovni profesor u penziji, , Univerzitet Union - Nikola Tesla
+1158. Marija Tešić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Novom Sadu
+1159. Suzana Cvjetićanin, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1160. Bojan Jevtić, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1161. Marko Joksimović, docent, Geografski fakultet, Univerzitet u Beogradu
+1162. Ivan Koprivica, istraživač pripravnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1163. Neda Đedović, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1164. Dušan Mojić, vanredni profesor, Filozofski fakultet, Univerzitet u Beogradu
+1165. Dragana Dulić, redovni profesor u penziji, Fakultet bezbednosti, Univerzitet u Beogradu
+1166. Đokica Jovanović, redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+1167. Vladimir Kovačević, redovni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1168. Nikša Jakovljević, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1169. Igor Stanković, viši naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+1170. Nada Dobrota Davidović, redovni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1171. Miljana Momčilović, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1172. Zoran Stojiljković, redovni profesor, Fakultet političkih nauka, Univerzitet u Beogradu
+1173. Danica Petrović, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+0.    Danica Petrović, naučni savetnik u penziji, Muzikološki institut SANU
+1174. Predrag Osmokrović, redovni profesor, Elektrotehnički fakultet, Univerzitet u Beogradu
+1175. Kristina Pekeč, asistent, Filozofski fakultet, Univerzitet u Beogradu
+1176. Danka Maslić-Strižak, naučni saradnik u penziji, Naučni institut za veterinarstvo Srbije, Beograd
+1177. Voja Radovanović, redovni profesor, Fizički fakultet, Univerzitet u Beogradu
+1178. Ivana Janković, istraživač saradnik, Filozofski fakultet, Univerzitet u Beogradu
+1179. Nataša Ilić, viši naučni saradnik, Institut za primenu nuklearne energije, Univerzitet u Beogradu
+1180. Mladen Furtula, docent, Šumarski fakultet, Univerzitet u Beogradu
+1181. Ivana Stojanović Prelević, docent, Filozofski fakultet, Univerzitet u Nišu
+1182. Ljubica Harhaji Trajković,  viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1183.  Svetozar Čiplić, docent, Pravni fakultet,  Univerzitet u Novom Sadu
+1184. Radislav Dimitrijević, redovni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Nišu
+1185. Vera Pravica, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1186. Aleksandra Majdarević, asistentkinja, Fakultet FEFA, Univerzitet Metropolitan
+1187. Darijan Mihajlović, vanredni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+1188. Velizar Stanković, redovni profesor u penziji, Tehnički fakultet u Boru, Univerzitet u Beogradu
+1189. Konstantin Ilijević, docent, Hemijski fakultet, Univerzitet u Beogradu
+1190. Anja Tolić, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1191. Ivana Šarac, naučni saradnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+1192. Mladen Marković, docent, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1193. Vesna Đikanović, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1194. Milan Prosen, docent, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1195. Ljubiša Đorđević, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+1196. Mihailo Savić, istraživač saradnik, Institut za fiziku, Univerzitet u Beogradu
+1197. Dejan Bulić, naučni saradnik,  Istorijski institut, Beograd
+1198. Saša Kočinac, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1199. Ratko Sukara, istraživač saradnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+1200. Irina Subotić, profesor emeritus, Akademija umetnosti, Univerzitet u Novom Sadu
+1201. Rada Pjanović, vanredni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1202. Goran Mladenović, vanredni profesor, Građevinski fakultet, Univerzitet u Beogradu
+1203. Milan Kalajdžić, docent, Mašinski fakultet, Univerzitet u Beogradu
+1204. Boban Tripković,  docent,  Filozofski fakultet, Univerzitet u Beogradu
+1205. Branislava Lakušić, redovna profesorka,  Farmaceutski fakultet, Univerzitet u Beogradu
+1206. Jelena Vekić, vanredni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1207. Ljiljana Živanović, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+1208. Dragana Popović, redovna profesorka u penziji, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1209. Ljubiša Đorđević, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+1210. Jasna Vujin, istraživač pripravnik, Institut za fiziku, Univerzitet u Beogradu
+1211. Filip Veljković, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1212. Dunja Drakulić,  naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1213. Mirjana Ilić, vanredni profesor, Filozofski fakultet, Univerzitet u Nišu
+1214. Gordana Marković, redovna profesorka u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1215. Milivoj Radojčin, docent, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+1216. Miroslav Marković, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1217. Jelena Ilić, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1218.  Natasa Vujisić Živković, redovni profesor, Filozofski fakultet,  Univerzitet u Beogradu
+1219. Stevan Đorđević, redovni profesor u penziji, Mašinski fakultet, Univerzitet u Beogradu
+1220. Slava Ćorić, redovni profesor u penziji, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1221. Mirjana Veselinović Hofman, redovni profesor u penziji, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1222. Branka Parlić, nastavnik veština, Akademija umetnosti, Univerzitet u Novom Sadu
+1223. Igor Čeliković, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1224. Mirjana Novković, istraživač saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+1225. Zoran Lutovac, viši naučni saradnik, Institut društvenih nauka u Beogradu
+1226. Marica Rakin, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1227. Goran Terzić, redovni profesor, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+1228. Darko Marinković, vanredni profesor, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1229. Ljubomir Popović, vanredni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+1230. Aleksandar Lučić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Novom Sadu
+1231. Nina Sudimac, asistent, Filozofski fakultet, Univerzitet u Nišu
+1232. Marija Nikolic, vanredni profesor, Tehnolosko-metalurski fakultet, Univerzitet u Beogradu
+1233. Mia Radonjić, istraživač pripravnik, Tehnološko-metalurški fakultet Univerziteta u Beogradu
+1234. Svetlana Paunović, naučni savetnik, Institut za voćarstvo, Čačak
+1235. Ana Vudragović, naučni saradnik, Astronomska opservatorija, Beograd
+1236. Nevenka Bošković Vragolović, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1237. Svetlana Štrbac, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1238. Zorka Lučić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Novom Sadu
+1239. Marina Nikolić, docent, Filozofski fakultet, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+1240. Milena Jovanovic, istraživač saradnik, Astronomska opservatorija, Beograd
+1241. Mirjana Drakulic, redovni profesor u penziji, Fakultet organizacionih nauka, Univerzitet u Beogradu
+1242. Petar Gogić, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+1243. Miloš Lučić, redovni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+1244. Branimir Stanić, redovni profesor u penziji, Saobraćajni fakultet, Univerzitet u Beogradu
+1245. Ivan Đorđević, naučni saradnik, Etnografski institut SANU
+1246. Milica Lazarević, istraživač pripravnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1247. Vesna Stankov Jovanović, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+1248. Bojko Bjelaković, vanredni profesor, Medicinski fakultet, Univerzitet u Nišu
+1249. Jasna Đonlagic, redovni profesor u penziji, Tehnolosko-metalurski fakultet, Univerzitet u Beogradu
+1250. Nikola Grujić, profesor emeritus, Medicinski fakultet, Univerzitet u Novom Sadu
+1251. Ivana Milošević, naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+1252. Aleksandar Tomović, naučni saradnik, Institut za fiziku, Univerzitet u Beogradu
+1253. Mladena Prelić, viši naučni saradnik, Etnografski institut SANU
+1254. Ratimir Drakulić, asistent u penziji, Fakultet organizacionih nauka, Univerzitet u Beogradu
+1255. Sanja Rapajić, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1256. Đorđe Jevtović, redovni profesor u penziji,  Medicinski fakultet, Univerzitet u Beogradu
+1257. Biljana Božin, vanredni profesor, Medicinski fakultet, Univerzitet u Novom Sadu
+1258. Gordana Stefanović, redovni profesor u penziji, Stomatološki fakultet, Univerzitet u Beogradu
+1259. Olgica Đurković-Đaković, naučni savetnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+1260. Đurđina Ružić, naučni savetnik u penziji, Institut za voćarstvo, Čačak
+1261.  Goran Ružić, docent, Filozofski fakultet, Univerzitet u Nišu
+1262. Marija Mirosavljev, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Novom Sadu
+1263. Dina Radoman, docent, Nova akademija umetnosti
+1264. Koviljka Krtolica- Žikić, naučni savetnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1265. Ivana Vesić, naučni saradnik, Muzikološki institut SANU, Beograd
+1266. Jelena Stankov, redovni profesor u penziji,  Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1267. Slobodan Krstić, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1268. Ana K. Jovanović, vanredna profesorka, Filološki fakultet, Univerzitet u Beogradu
+1269. Željko Nikač, redovni profesor, Kriminalističko-policijski univerzitet, Beograd
+1270. Katarina Suvajdžić,  asistentkinja, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+1271. Aleksandar Kandić, viši naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1272. Milica Stojadinović, redovni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+1273. Snežana Pejčić Tarle, vanredni profesor u penziji, Saobraćajni fakultet,  Univerzitet u Beogradu
+1274. Dejan Živković, redovni profesor u penziji, Elektrotehnički fakultet, Univerzitet u Beogradu
+1275. Milan Merkle, redovni profesor, Elektrotehnički fakultet, Univerzitet u Beogradu
+1276. Ljubiša Dabić, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Beogradu
+1277. Aleksandar Milić, asistent,  Elektrotehnički fakultet, Univerzitet u Beogradu
+1278. Natalija Krstić, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1279. Milica Živković, asistent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1280. Igor Bačkalov, vanredni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1281. Danko Leovac, docent,  Filozofski fakultet, Univerzitet u Beogradu
+1282. Mirjana Živković, redovni profesor u penziji, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1283. Marija Babović, redovna profesorka, Filozofski fakultet, Univerzitet u Beogradu
+1284. Dijana Mihajlović, predavač, Visoka tekstilna strukovna škola za dizajn, tehnologiju i menadžment, Beograd
+1285. Snežana Rakić, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1286. Dušan Najdanović, redovni profesor u penziji, Građevinski fakultet, Univerzitet u Beogradu
+1287. Sanja Vukosavljević Milenić, redovni profesor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+1288. Srđan Sretenović, vanredni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1289. Rajko Maksimović, redovni profesor u penziji, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1290. Slavica Rajšić, naučni savetnik u penziji, Institut za fiziku, Univerzitet u Beogradu
+1291. Srđan Bošnjak, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1292. Neda Hofman-Sretenović, viši umetnički saradnik, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1293. Vera Zdravković, docent, Medicinski fakultet, Univerzitet u Beogradu
+1294. Vesna Nikolić-Ristanović, redovni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1295. Miloš Kocić, asistent, Mašinski fakultet, Univerzitet u Nišu
+1296. Dejan B. Ilić, vanredni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1297. Dragana Vuković, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1298. Marko Rakin, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1299. Zoran Radmilović, redovni profesor u penziji, Saobraćajni fakultet, Univerzitet u Beogradu
+1300. Aleksandra Fejsa Levakov, docent, Medicinski fakultet, Univerzitet u Novom Sadu
+1301. Jelena Jovanović, docent, Računarski fakultet, Univerzitet Union
+0.    Jelena Jovanović, naučni saradnik, Matematički institut SANU
+1302. Ognjen Pantelić, docent, Fakultet organizacionih nauka, Univerzitet u Beogradu
+1303. Mara Aleksić, redovni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1304. Suzana Stanisavljević, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1305. Saša Živić, redovni profesor, Medicinski fakultet, Univerzitet u Nišu
+1306. Ljubomir Milanović, vanredni profesor, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1307. Stefan Tošić, asistent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1308. Ranko Dragović, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+1309. Nikola Tatar, nastavnik stranog jezika, Filozofski fakultet, Univerzitet u Nišu
+1310. Dragan Čakmak, viši naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1311. Milan Milovanović, naučni savetnik u penziji, Institut za automobile “Zastava”, Kragujevac
+1312. Ivana Maksimović, redovni profesor, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+1313. Vera Mijač, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1314. Ljiljana Stevković, asistent, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1315. Milan Đurić, vanredni profesor, Arhitektonski fakultet, Univerzitet u Beogradu
+1316. Smilja Marković, naučni savetnik, Institut tehničkih nauka SANU
+1317. Goran Čpajak, redovni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1318. Stefan Đorić, asistent, Filozofski fakultet, Univerzitet u Nišu
+1319. Darinka Golubovic Matić, docent, Fakultet za graditeljski menadžment, Univerzitet Union - Nikola Tesla
+1320. Milivoje Milovanović, naučni savetnik, Centar za strna žita, Kragujevac
+1321. Marija Mandić, viša naučna saradnica, Balkanološki institut SANU
+1322. Majda Medić, predavač, Visoka škola strukovnih studija za informacione i komunikacione tehnologije, Beograd
+1323. Maja Bosnar, vanredni profesor, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+1324. Marijana Pajvančić, redovna profesorka u penziji, Pravni fakultet, Univerzitet u Novom Sadu
+1325. Goran Petrović, vanredni profesor, Mašinski fakultet, Univerzitet u Nišu
+1326. Sofija Jovanović Stojanov, istraživač saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1327. Obrad Todorović, redovni profesor u penziji, Ekonomski fakultet, Univerzitet u Nišu
+1328. Slađana Dragišić Labaš, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu 
+1329. Jasminka Đorđević Miloradović, profesor,Visoka tehnička škola strukovnih studija Požarevac
+1330. Dejan Dželabdžić, docent, Filozofski fakultet, Univerzitet u Beogradu
+1331. Dušan Petrović, redovni profesor, Fakultet likovnih umetnosti; Univerzitet umetnosti u Beogradu
+1332. Bojan Ljujić, docent, Filozofski fakultet, Univerzitet u Beogradu
+1333. Radmila Pivić, naučni savetnik, Institut za zemljište, Beograd
+1334. Aleksandra Buha Đorđević, docent, Farmaceutski fakultet, Univerzitet u Beogradu
+1335. Emilija Golubović, redovni profesor, Medicinski fakultet, Univerzitet u Nišu
+1336. Slobodan Petković, redovni profesor u penziji, Šumarski fakultet, Univerzitet u Beogradu
+1337. Sonja Skuban, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1338. Petar Teofilović, vanredni profesor, Fakultet za pravne i poslovne studije dr Lazar Vrkatić, Univerzitet Union
+1339. Milan N. Sovilj, redovni profesor u penziji, Tehnološki fakultet, Univerzitet u Novom Sadu
+1340. Dragana Tegeltija, docent, Medicinski fakultet, Univerzitet u Novom Sadu
+1341. Fedor Skuban, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1342. Vladimir Živković, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1343. Tatjana Vujović, viši naučni saradnik, Institut za voćarstvo, Čačak
+1344. Simeun Jelić, pukovnik predavač u penziji, Vojnotehnički institut, Beograd
+1345. Nada Ćosić, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1346. Miljan Grbović, docent, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+1347. Tatjana Grujić, viši lektor, Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+1348. Miljan Jakšić, vanredni profesor u penziji, Fakultet tehničkih nauka, Univerzitet u Prištini sa privremenim sedištem u Kosovskoj Mitrovici
+1349. Dragica Gajić, istraživač pripravnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1350. Aleksandar Lolić, docent, Hemijski fakultet, Univerzitet u Beogradu
+1351. Stefan Đoković, docent , Fakultet veterinarske medicine, Univerzitet u Beogradu
+1352. Darko Davitkov, asistent, Fakultet veterinarske medicine, Univerzitet u Beogradu
+1353. Radoš Ljušić, redovni profesor, Filozofski fakultet, Univerzitet u Beogradu
+1354. Ivan Topalović, istraživač saradnik, Institut tehničkih nauka SANU
+1355. Marijana Ćurčić, docent, Farmaceutski fakultet, Univerzitet u Beogradu
+1356. Jovana Ajduković, docent, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1357. Mirjana Petrović, naučni saradnik, Institut za krmno bilje, Kruševac
+1358. Sanja Manitašević Jovanović, naučna saradnica, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1359. Darko Mihaljica, istraživač saradnik, Institut za medicinska istraživanja, Univerzitet u Beogradu
+1360. Radoslava Pravilović, asistent, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1361. Bojan Marinković, naučni saradnik, Matematički institut SANU
+1362. Nemanja Vujčić, naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+1363. Ivana Marcikić, redovni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1364. Aneta Sabovljević, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+1365. Silvano Bolčić,  redovni profesor u penziji, Filozofski fakultet, Univerzitet u Beogradu
+1366. Danijel Marković, asistent, Mašinski fakultet, Univerzitet u Nišu
+1367. Jelena Božilović, istraživač saradnik, Istraživačko razvojni centar “Alfatec”, Univerzitet u Nišu
+1368. Slobodan Jovanović, vanredni profesor, Biološki fakultet, Univerzitet u Beogradu
+1369. Slobodan Roksandić, redovni profesor u penziji, Fakultet likovnih umetnosti, Univerzitet umetnosti u Beogradu
+1370. Marija Sarić,  istraživač pripravnik, Farmaceutski fakultet, Univerzitet u Beogradu
+1371. Borko Mihajlović, asistent, Pravni fakultet, Univerzitet u Kragujevcu
+1372. Biljana Šmit, viši naučni saradnik, Prirodno-matematički fakultet, Univerzitet u Kragujevcu
+1373. Miroslava Kostić, viši naučni saradnik, Filozofski fakultet, Univerzitet u Beogradu
+1374. Marko Milivojević, istraživač saradnik, Fizički fakultet, Univerzitet u Beogradu
+1375. Srećko Prnjat, redovni profesor u penziji, Fakultet dramskih umetnosti, Univerzitet umetnosti u Beogradu
+1376. Slobodan Janković, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Nišu
+1377. Aleksa Obradović, redovni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+1378. Svetlana Stojić, docent, Filozofski fakultet, Univerzitet u Beogradu
+1379. Mila Ljujić, viši naučni saradnik, Institut za molekularnu genetiku i genetičko inženjerstvo, Univerzitet u Beogradu
+1380. Maša Davidović, saradnik u nastavi, Medicinski fakultet, Univerzitet u Beogradu
+1381. Branimir Pavlić, docent, Tehnološki fakultet, Univerzitet u Novom Sadu
+1382. Miško M. Milanović, redovni profesor, Geografski fakultet, Univerzitet u Beogradu
+1383. Ljiljana Teofanov, vanredni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1384. Slobodan Knežević, redovni profesor u penziji, Akademija umetnosti, Univerzitet u Novom Sadu
+1385. Branka Janković Knežević, redovni profesor u penziji,  Akademija umetnosti, Univerzitet umetnosti u Novom Sadu
+1386. Nenad Vušović, redovni profesor, Tehnički fakultet u Boru, Univerzitet u Beogradu
+1387. Nataša Đurišić-Mladenović, docent, Tehnološki fakultet, Univerzitet u Novom Sadu
+1388. Akademik Zoran Radović, redovni profesor u penziji, Fizički fakultet, Univerzitet u Beogradu
+1389. Radmila Jančić Heinemann, redovni profesor, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1390. Goran Marković, vanredni profesor, Agronomski fakultet, Univerzitet u Kragujevcu
+1391. Duško Brković, docent, Agronomski fakultet, Univerzitet u Kragujevcu
+10. Srećko Stopić, profesor, Faculty of Georesources and Materials Engineering, RWTH Aachen University
+1392. Tamara Šekularac, saradnik u nastavi, Elektrotehnički fakultet, Univerzitet u Beogradu
+1393. Aleksandra Patenković, naučni saradnik, Institut za biološka istraživanja “Siniša Stanković”, Univerzitet u Beogradu
+1394. Katarina Nikolić, vanredni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1395. Nina Žigon, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1396. Adela D. Egelja, istraživač saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1397. Gordana Nikolić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+1398. Danica Mladenović, viši stručni saradnik, Institut za ratarstvo i povrtarstvo, Novi Sad
+1399. Monika Milosavljević, docent, Filozofski fakultet, Univerzitet u Beogradu
+1400. Žarko Lazić, vanredni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+1401. Dragana Ilić, vanredni profesor, Matematički fakultet, Univerzitet u Beogradu
+1402. Slaviša Stanković, redovni profesor, Biološki fakultet, Univerzitet u Beogradu
+1403. Nebojša Atanacković, istraživač saradnik, Rudarsko-geološki fakultet, Univerzitet u Beogradu
+1404. Jasna Plavšić, vanredni profesor, Građevinski fakultet, Univerzitet u Beogradu
+1405. Zagorka Lozanov Crvenković, redovni profesor, Prirodno-matematički fakultet, Univerziteta u Novom Sadu
+1406. Dejan Karavesović, docent,  Filološko-umetnički fakultet, Univerzitet u Kragujevcu
+1407. Marina Arsenović Pavlović, docentkinja u penziji, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1408. Maja Kuzmanović, naučni saradnik, Institut tehničkih nauka SANU
+1409. Vladan Jovanović, nastavnik veština, Fakultet za medije i komunikacije, Univerzitet Singidunum
+1410. Vesna Matović, redovni profesor u penziji, Farmaceutski fakultet, Univerzitet u Beogradu
+1411. Snežana Nenadović, viši naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1412. Miloš Nenadović, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1413. Ljiljana Kljajević, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1414. Nemanja Teslić, istraživač-saradnik, Naučni institut za prehrambene tehnologije, Univerzitet u Novom Sadu
+1415. Milana Piletić, docent u penziji, Filološki fakultet, Univerzitet u Beogradu
+1416. Vladimir Korać, asistent, Fakultet muzičke umetnosti, Univerzitet umetnosti u Beogradu
+1417. Dragan M. Todorović, naučni savetnik u penziji, Institut za multidisciplinarna istraživanja, Univerzitet u Beogradu
+1418. Dragan Stanojević, docent, Poljoprivredni fakultet, Univerzitet u Beogradu
+1419. Miroslav Kosanić, redovni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1420. Dragoljub D. Dimitrijević, docent, Prirodno-matematički fakultet, Univerzitet u Nišu
+1421. Nikola Cvjetićanin, redovni profesor, Fakultet za fizičku hemiju, Univerzitet u Beogradu
+1422. Biljana Buzadžić, naučna savetnica u penziji, Institut za biološka istraživanja, Univerzitet u Beogradu
+1423. Vladan Ljubinković, redovni profesor u penziji, Arhitektonski fakultet Univerziteta u Beogradu
+1424. Dejan Vasović, docent, Arhitektonski fakultet, Univerzitet u Beogradu
+1425. Jelena Gulicovski, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1426. Marko Kostić, docent, Poljoprivredni fakultet, Univerzitet u Novom Sadu
+1427. Mirjana Zlatković-Švenda, naučni saradnik, Medicinski fakultet, Univerzitet u Beogradu
+1428. Predrag Manojlović, redovni profesor, Geografski fakultet, Univerzitet u Beogradu
+1429. Dragana Maćešić-Petrović, redovni profesor, Fakultet za specijalnu edukaciju i rehabilitaciju, Univerzitet u Beogradu
+1430. Nataša Todorović, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1431. Kristijan Eker, docent, Filozofski fakultet, Univerzitet u Novom Sadu
+1432. Zoran Rajković, istraživač saradnik u penziji, Institut ekonomskih nauka Beograd
+1433. Milorad Stojić, naučni savetnik u penziji, Arheološki institut Beograd
+1434. Branislava R. Miljković, redovni profesor, Farmaceutski fakultet, Univerzitet u Beogradu
+1435. Đuro Ercegović, redovni profesor u penziji, Poljoprivredni fakultet, Univerzitet u Beogradu
+1436. Aleksandra Ćiprijanović, naučni saradnik, Matematički fakultet, Univerzitet u Beogradu
+1437. Nikola Popović, saradnik u nastavi, Elektrotehnički fakultet, Univerzitet u Beogradu
+1438. Dejan Movrin, docent, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1439. Dušica Palačković, redovni profesor, Pravni fakultet, Univerzitet u Kragujevcu
+1440. Sonja Radaković, stručni saradnik, Akademija umetnosti, Univerzitet u Novom Sadu
+1441. Zorica Kuzmanović, docent, Filozofski fakultet, Univerzitet u Beogradu
+1442. Branko Gorgiev, redovni profesor, Filozofski fakultet, Univerzitet u Nišu
+1443. Dejan Radojčić, redovni profesor u penziji, Mašinski fakultet, Univerzitet u Beogradu
+1444. Peđa Mihailović, vanredni profesor, Elektrotehnički fakultet, Univerzitet u Beogradu
+1445. Anja Ranđelović, docent, Građevinski fakultet, Univerzitet u Beogradu
+1446. Ivan Klajn, redovni profesor u penziji, Filološki fakultet, Univerzitet u Beogradu
+0.    Ivan Klajn, redovni član SANU
+1447. Marko Radovanović, docent, Matematički fakultet, Univerzitet u Beogradu
+1448. Snežana Cekić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Nišu
+1449. Ivan Stojanović, asistent, Akademija poslovnih strukovnih studija, Beograd
+1450. Vuk Radmilović, naučni saradnik, Tehnološko-metalurški fakultet, Univerzitet u Beogradu
+1451. Gordana Vekarić, nastavnik jezika, Fakultet sporta i fizičkog vaspitanja, Univerzitet u Beogradu
+1452. Jovan P. Šetrajčić, redovni profesor, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1453. Radmila Garić-Grulović, naučni savetnik, Institut za hemiju, tehnologiju i metalurgiju, Univerzitet u Beogradu
+1454. Aleksandar Vencl, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1455. Aleksandar Urošević, viši naučni saradnik, Institut za biološka istraživanja „Siniša Stanković“, Univerzitet u Beogradu
+1456. Dušica Todorović, vanredni profesor, Filološki fakultet, Univerzitet u Beogradu
+1457. Mihajlo Zurković, vanredni profesor, Akademija umetnosti, Univerzitet u Novom Sadu
+1458. Milena Kataranovski, redovni profesor u penziji, Biološki fakultet, Univerzitet u Beogradu
+1459. Borjanka Trajković, redovni profesor u penziji, Pedagoški fakultet u Somboru, Univerzitet u Novom Sadu
+1460. Ilija Radović, naučni savetnik u penziji, Institut za naučna istraživanja PKB Agroekonomik, Beograd
+1461. Marina Hughson, naučna savetnica, Institut za kriminološka i sociološka istraživanja, Beograd
+1462. Velimir Velja Vukićević, redovni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1463. Dušan Kićević, istraživač saradnik u penziji, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1464. Dragana Pešić, docent, Stomatološki fakultet u Pančevu, Univerzitet Privredna akademija u Novom Sadu
+1465. Tatjana Ivković-Lazar, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Novom Sadu
+1466. Dušan Lazar, vanredni profesor u penziji, Prirodno-matematički fakultet, Univerzitet u Novom Sadu
+1467. Marija Bogdanović, nastavnik veština, Učiteljski fakultet, Univerzitet u Beogradu
+1468. Svetislav Mijatović, istraživač saradnik, Fizički fakultet, Univerzitet u Beogradu
+1469. Vesna Popović, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1470. Karla Ilić Đurđić, asistent, Hemijski fakultet, Univerzitet u Beogradu
+1471. Vladimir Trajković, redovni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1472. Miodrag Spasojević, redovni profesor, Građevinski fakultet Subotica, Univerzitet u Novom Sadu
+1473. Nikola Mladenović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1474. Jelena Svorcan, docent, Mašinski fakultet, Univerzitet u Beogradu
+1475. Aleksandar Ostojić, vanredni profesor, Prirodno-matematički fakultet, Univerzitet u Kragujevcu
+1476. Miroslav Cvetinov, docent, Akademija umetnosti, Univerzitet u Novom Sadu
+1477. Lazar Džamić, predavač, Fakultet za medije i komunikacije, Univerzitet Singidunum, Beograd
+1478. Ivan Jovanović, docent, Filozofski fakultet, Univerzitet u Nišu
+1479. Ivanka Baralić Obradović, vanredni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+1480. Miroljub Obradović, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+1481. Vera Gligorijević, docent, Geografski fakultet, Univerzitet u Beogradu
+1482. Jelena Jaranović, asistent, Učiteljski fakultet, Univerzitet u Beogradu
+1483. Nataša Mitrović, naučni saradnik, Institut za nuklearne nauke “Vinča”, Univerzitet u Beogradu
+1484. Branislav Popkonstantinović, redovni profesor, Mašinski fakultet, Univerzitet u Beogradu
+1485. Ljubica Rajković, redovna profesorka, Geografski fakultet, Univerzitet u Beogradu
+1486. Nikola Radaković, redovni profesor, Fakultet tehničkih nauka, Univerzitet u Novom Sadu
+1487. Nenad Tamaš, vanredni profesor, Poljoprivredni fakultet, Univerzitet u Beogradu
+1488. Miljana Tanić, naučni saradnik, Institut za onkologiju i radiologiju Srbije
+1489. Kosta Krsmanović, redovni profesor u penziji, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1490. Slobodan Runić, redovni profesor u penziji, Medicinski fakultet, Univerzitet u Beogradu
+1491. Aleksandar Jovanović, docent, Fakultet inženjerskih nauka, Univerzitet u Kragujevcu
+1492. Mina Glogovac, vanredni profesor, Fakultet primenjenih umetnosti, Univerzitet umetnosti u Beogradu
+1493. Nebojša L. Radovanović, vanredni profesor, Medicinski fakultet, Univerzitet u Beogradu
+1494. Ivana Đurđev, istraživač-saradnik, Matematički institut SANU
