@@ -1,4 +1,4 @@
-setwd("~/Documents/up")
+setwd("~/Documents/up") #working directory with files
 library(stringr)
 library(readr)
 library(dplyr)
@@ -47,7 +47,7 @@ pravni.data <- data.frame(ime = str_split_fixed(pravni, fixed(","), n=2)[,1])
 pravni.data$zvanje <- dict[[str_trim(str_split_fixed(pravni, fixed(","), 2)[,2])]]
 pravni.data$drzava <- "Srbija"
 pravni.data$univerzitet <- "Univerzitet u Beogradu"
-pravni.data$fakultet <- "Institut za filozofiju i društvenu teoriju"
+pravni.data$fakultet <- "Pravni fakultet"
 
 socffbg.txt <- read_file("raw/soc-ff-bg.txt")
 socffbg <- str_split_fixed(socffbg.txt, fixed("\n"), n = str_count(socffbg.txt, "\n")) %>% str_trim
@@ -219,5 +219,9 @@ up.data$drzava <- "Srbija"
 data <- bind_rows(up.data, dijaspora.data, ffbg.data, ffns.data, fpn.data, ifdt.data, pravni.data, socffbg.data, tmf.data)
 data <- data[!duplicated(data), ]
 write.csv(data, "dataset.csv")
+
+
+#processing examples:
+#
 #ggplot(up.data %>% filter(fakultet %in% (up.data %>% group_by(fakultet) %>% summarise(no_rows=length(fakultet)) %>% filter(no_rows > 29))$fakultet), aes(x=zvanje,fill=zvanje)) + geom_bar() + facet_grid(cols = vars(fakultet))
 #data %>% group_by(fakultet, univerzitet) %>% summarise(no_rows=length(fakultet)) %>% filter(no_rows > 29) %>% arrange(-no_rows)
